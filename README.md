@@ -15,7 +15,6 @@ There are 4 projects within this repository which are as follows:
 * Final CA: Android Studio, Python
 
 ## Additional info
-Course Profs were Dr.Kargahi and Dr.Modarressi
---------------------------links--------------------------
- Dr.Kargahi profile: [link](https://profile.ut.ac.ir/~kargahi)
+Course Profs were Dr.Kargahi and Dr.Modarressi\
+ Dr.Kargahi profile: [link](https://profile.ut.ac.ir/~kargahi)\
  Dr.Modarressi profile: [link](https://ece.ut.ac.ir/~modarressi)
