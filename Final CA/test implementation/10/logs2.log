@@ -1,0 +1,2532 @@
+GameStart : game started
+receivePositionMessage : 115 0.5 0.897485 2.0
+receivePositionMessage : 116 0.5 0.897485 2.0
+receivePositionMessage : 117 0.5 0.897485 3.0
+receivePositionMessage : 118 0.5 0.897485 4.0
+receivePositionMessage : 120 0.496296 0.869483 6.0
+receivePositionMessage : 121 0.496296 0.869483 6.0
+receivePositionMessage : 123 0.490741 0.832938 8.0
+receivePositionMessage : 123 0.490741 0.832938 8.0
+receivePositionMessage : 125 0.486111 0.786901 10.0
+receivePositionMessage : 125 0.486111 0.786901 10.0
+receivePositionMessage : 127 0.485185 0.731846 12.0
+receivePositionMessage : 127 0.485185 0.731846 12.0
+receivePositionMessage : 129 0.47963 0.663503 14.0
+receivePositionMessage : 129 0.47963 0.663503 14.0
+receivePositionMessage : 131 0.481481 0.644044 16.0
+receivePositionMessage : 132 0.481481 0.644044 16.0
+receivePositionMessage : 133 0.484259 0.631229 18.0
+receivePositionMessage : 134 0.484259 0.631229 18.0
+receivePositionMessage : 136 0.485185 0.627907 19.0
+receivePositionMessage : 137 0.485185 0.625534 20.0
+receivePositionMessage : 139 0.486111 0.623161 22.0
+receivePositionMessage : 139 0.486111 0.623161 22.0
+receivePositionMessage : 143 0.486111 0.620313 26.0
+receivePositionMessage : 144 0.486111 0.620313 26.0
+receivePositionMessage : 144 0.486111 0.620313 26.0
+receivePositionMessage : 144 0.486111 0.620313 26.0
+receivePositionMessage : 146 0.486111 0.620313 28.0
+receivePositionMessage : 146 0.486111 0.620313 28.0
+receivePositionMessage : 154 0.486111 0.620313 31.0
+receivePositionMessage : 155 0.486111 0.620788 32.0
+receivePositionMessage : 155 0.485185 0.623636 33.0
+receivePositionMessage : 155 0.485185 0.643094 36.0
+receivePositionMessage : 156 0.485185 0.643094 36.0
+receivePositionMessage : 156 0.485185 0.643094 36.0
+receivePositionMessage : 156 0.485185 0.643094 36.0
+receivePositionMessage : 156 0.485185 0.643094 36.0
+receivePositionMessage : 158 0.481481 0.662079 38.0
+receivePositionMessage : 158 0.481481 0.662079 38.0
+receivePositionMessage : 160 0.481481 0.673944 40.0
+receivePositionMessage : 160 0.481481 0.673944 40.0
+sendStrikerPosition : 161 P0.484259#0.863991#1.000000@
+sendStrikerPosition : 162 P0.470370#0.846154#2.000000@
+receivePositionMessage : 162 0.480556 0.679639 42.0
+receivePositionMessage : 162 0.480556 0.679639 42.0
+sendStrikerPosition : 164 P0.457407#0.828317#3.000000@
+receivePositionMessage : 164 0.475 0.67252 43.0
+receivePositionMessage : 164 0.467593 0.643569 44.0
+sendStrikerPosition : 165 P0.442593#0.795987#4.000000@
+sendStrikerPosition : 166 P0.438889#0.783724#5.000000@
+receiveBallCollisionMessage : 166 0.499074 0.499288 0.0 0.01234 46.0
+sendBallCollisionAck : 166 R6.0@
+receiveBallCollisionMessage : 166 0.499074 0.499288 0.0 0.01234 46.0
+sendBallCollisionAck : 166 R7.0@
+sendStrikerPosition : 167 P0.436111#0.773133#8.000000@
+receiveBallCollisionMessage : 167 0.499074 0.499288 0.0 0.01234 48.0
+sendBallCollisionAck : 167 R9.0@
+receiveBallCollisionMessage : 167 0.499074 0.499288 0.0 0.01234 48.0
+sendBallCollisionAck : 167 R10.0@
+sendStrikerPosition : 168 P0.430556#0.763099#11.000000@
+receivePositionMessage : 168 0.534259 0.579022 49.0
+sendStrikerPosition : 169 P0.425926#0.754738#12.000000@
+receiveBallCollisionMessage : 169 0.499074 0.499763 -0.001852 0.007594 51.0
+sendBallCollisionAck : 169 R13.0@
+receiveBallCollisionMessage : 170 0.499074 0.499763 -0.001852 0.007594 51.0
+sendBallCollisionAck : 170 R15.0@
+sendStrikerPosition : 170 P0.419444#0.743032#14.000000@
+receiveBallCollisionMessage : 170 0.499074 0.499763 -0.001852 0.007594 53.0
+sendBallCollisionAck : 170 R16.0@
+receiveBallCollisionMessage : 171 0.499074 0.499763 -0.001852 0.007594 53.0
+sendBallCollisionAck : 171 R18.0@
+sendStrikerPosition : 171 P0.415741#0.738016#17.000000@
+receiveBallCollisionMessage : 171 0.499074 0.499763 -0.001852 0.007594 55.0
+sendBallCollisionAck : 172 R20.0@
+receiveBallCollisionMessage : 172 0.499074 0.499763 -0.001852 0.007594 55.0
+sendBallCollisionAck : 172 R21.0@
+sendStrikerPosition : 172 P0.412037#0.732441#19.000000@
+receivePositionMessage : 172 0.519444 0.580921 56.0
+sendStrikerPosition : 173 P0.411111#0.729654#22.000000@
+sendStrikerPosition : 174 P0.410185#0.726867#23.000000@
+receiveBallCollisionMessage : 174 0.499074 0.499763 -0.003704 0.003322 58.0
+sendBallCollisionAck : 174 R24.0@
+receiveBallCollisionMessage : 174 0.499074 0.499763 -0.003704 0.003322 58.0
+sendBallCollisionAck : 174 R25.0@
+receivePositionMessage : 174 0.521296 0.580446 59.0
+sendStrikerPosition : 175 P0.409259#0.725753#26.000000@
+receiveBallCollisionMessage : 175 0.499074 0.499763 -0.003704 0.003322 60.0
+sendBallCollisionAck : 175 R27.0@
+sendStrikerPosition : 176 P0.408333#0.723523#28.000000@
+receivePositionMessage : 177 0.526852 0.580446 61.0
+sendStrikerPosition : 177 P0.408333#0.722408#29.000000@
+receivePositionMessage : 177 0.533333 0.579497 63.0
+sendStrikerPosition : 178 P0.408333#0.721851#30.000000@
+receivePositionMessage : 178 0.533333 0.579497 63.0
+receivePositionMessage : 180 0.541667 0.578548 65.0
+receivePositionMessage : 181 0.541667 0.578548 65.0
+sendStrikerPosition : 181 P0.412963#0.730212#31.000000@
+receiveBallCollisionMessage : 181 0.499074 0.500237 -0.005556 0.002373 67.0
+sendBallCollisionAck : 181 R32.0@
+receiveBallCollisionMessage : 182 0.499074 0.500237 -0.005556 0.002373 67.0
+sendBallCollisionAck : 182 R34.0@
+sendStrikerPosition : 182 P0.421296#0.742475#33.000000@
+receivePositionMessage : 182 0.548148 0.577598 68.0
+sendStrikerPosition : 183 P0.429630#0.755295#35.000000@
+receiveBallCollisionMessage : 183 0.499074 0.500237 -0.005556 0.002373 69.0
+sendBallCollisionAck : 183 R36.0@
+sendStrikerPosition : 184 P0.439815#0.769231#37.000000@
+receivePositionMessage : 184 0.555556 0.576649 70.0
+sendStrikerPosition : 185 P0.453704#0.788740#38.000000@
+sendStrikerPosition : 186 P0.460185#0.798216#39.000000@
+receivePositionMessage : 186 0.564815 0.574276 72.0
+receivePositionMessage : 186 0.564815 0.574276 72.0
+receiveBallCollisionMessage : 186 0.499074 0.500237 -0.001852 0.008543 73.0
+sendBallCollisionAck : 186 R40.0@
+sendStrikerPosition : 187 P0.473148#0.814381#41.000000@
+receivePositionMessage : 187 0.562037 0.58804 75.0
+receivePositionMessage : 187 0.562037 0.58804 75.0
+sendStrikerPosition : 188 P0.477778#0.818283#42.000000@
+sendStrikerPosition : 189 P0.482407#0.823300#43.000000@
+receivePositionMessage : 189 0.562963 0.598007 76.0
+sendStrikerPosition : 190 P0.485185#0.824972#44.000000@
+receivePositionMessage : 190 0.562037 0.607024 77.0
+sendStrikerPosition : 191 P0.486111#0.826644#45.000000@
+receivePositionMessage : 191 0.562037 0.613669 78.0
+sendStrikerPosition : 192 P0.487963#0.827759#46.000000@
+receivePositionMessage : 192 0.562037 0.620313 80.0
+receivePositionMessage : 192 0.562037 0.620313 80.0
+sendStrikerPosition : 193 P0.488889#0.828874#47.000000@
+receivePositionMessage : 193 0.562037 0.620313 81.0
+receivePositionMessage : 193 0.562037 0.622686 82.0
+sendStrikerPosition : 194 P0.490741#0.829989#48.000000@
+receivePositionMessage : 195 0.562037 0.623636 83.0
+sendStrikerPosition : 195 P0.490741#0.827202#49.000000@
+receivePositionMessage : 196 0.562037 0.625059 84.0
+sendStrikerPosition : 196 P0.490741#0.811037#50.000000@
+receivePositionMessage : 196 0.562037 0.625534 85.0
+sendStrikerPosition : 197 P0.487037#0.793200#51.000000@
+receivePositionMessage : 197 0.562037 0.626009 87.0
+receivePositionMessage : 197 0.562037 0.626009 87.0
+sendStrikerPosition : 198 P0.484259#0.782609#52.000000@
+receivePositionMessage : 198 0.562037 0.627432 88.0
+sendStrikerPosition : 199 P0.482407#0.774805#53.000000@
+receivePositionMessage : 200 0.562037 0.630755 89.0
+receivePositionMessage : 202 0.560185 0.644518 91.0
+receivePositionMessage : 203 0.560185 0.644518 91.0
+receivePositionMessage : 205 0.556481 0.658282 94.0
+receivePositionMessage : 205 0.556481 0.658282 94.0
+receivePositionMessage : 205 0.556481 0.658282 94.0
+receivePositionMessage : 207 0.55 0.669673 96.0
+receivePositionMessage : 207 0.55 0.669673 96.0
+receivePositionMessage : 209 0.546296 0.673469 98.0
+receivePositionMessage : 209 0.546296 0.673469 98.0
+receivePositionMessage : 213 0.543519 0.673944 101.0
+receivePositionMessage : 213 0.543519 0.673944 101.0
+receivePositionMessage : 213 0.543519 0.673944 101.0
+receivePositionMessage : 215 0.541667 0.67252 103.0
+receivePositionMessage : 215 0.541667 0.67252 103.0
+receivePositionMessage : 216 0.539815 0.669673 104.0
+receivePositionMessage : 218 0.535185 0.660655 107.0
+receivePositionMessage : 218 0.535185 0.660655 107.0
+receivePositionMessage : 218 0.535185 0.660655 107.0
+receivePositionMessage : 220 0.532407 0.653061 109.0
+receivePositionMessage : 220 0.532407 0.653061 109.0
+receivePositionMessage : 225 0.532407 0.652112 113.0
+receivePositionMessage : 225 0.532407 0.652112 113.0
+receivePositionMessage : 225 0.532407 0.651637 114.0
+receivePositionMessage : 226 0.532407 0.651637 114.0
+receivePositionMessage : 226 0.532407 0.651637 114.0
+receivePositionMessage : 229 0.532407 0.651637 117.0
+receivePositionMessage : 229 0.532407 0.651637 117.0
+receivePositionMessage : 229 0.532407 0.651637 117.0
+receivePositionMessage : 231 0.532407 0.651637 120.0
+receivePositionMessage : 231 0.532407 0.651637 120.0
+receivePositionMessage : 231 0.532407 0.651637 120.0
+receivePositionMessage : 237 0.532407 0.651637 121.0
+receiveBallCollisionMessage : 239 0.497222 0.506882 -0.001852 0.008543 122.0
+sendBallCollisionAck : 239 R54.0@
+receivePositionMessage : 240 0.532407 0.652112 124.0
+receivePositionMessage : 241 0.532407 0.652112 125.0
+receivePositionMessage : 242 0.532407 0.652587 126.0
+receivePositionMessage : 243 0.532407 0.652587 127.0
+receivePositionMessage : 244 0.532407 0.652587 128.0
+receivePositionMessage : 247 0.532407 0.652587 130.0
+receivePositionMessage : 247 0.532407 0.652587 130.0
+receivePositionMessage : 249 0.534259 0.652112 132.0
+receivePositionMessage : 250 0.534259 0.652112 132.0
+receivePositionMessage : 252 0.544444 0.651637 134.0
+receivePositionMessage : 252 0.544444 0.651637 134.0
+receivePositionMessage : 254 0.562963 0.649739 136.0
+receivePositionMessage : 254 0.562963 0.649739 136.0
+receivePositionMessage : 256 0.587037 0.648315 138.0
+receivePositionMessage : 257 0.587037 0.648315 138.0
+receivePositionMessage : 259 0.607407 0.648315 140.0
+receivePositionMessage : 259 0.607407 0.648315 140.0
+receivePositionMessage : 261 0.618519 0.648315 142.0
+receivePositionMessage : 262 0.618519 0.648315 142.0
+receivePositionMessage : 264 0.621296 0.647841 144.0
+receivePositionMessage : 264 0.621296 0.647841 144.0
+receivePositionMessage : 265 0.624074 0.647366 146.0
+receivePositionMessage : 266 0.624074 0.647366 146.0
+receivePositionMessage : 268 0.623148 0.646891 148.0
+receivePositionMessage : 268 0.623148 0.646891 148.0
+receivePositionMessage : 270 0.623148 0.646417 150.0
+receivePositionMessage : 270 0.623148 0.646417 150.0
+receivePositionMessage : 272 0.622222 0.644518 152.0
+receivePositionMessage : 272 0.622222 0.644518 152.0
+receivePositionMessage : 274 0.619444 0.642145 154.0
+receivePositionMessage : 274 0.619444 0.642145 154.0
+receivePositionMessage : 276 0.610185 0.636925 155.0
+receivePositionMessage : 277 0.603704 0.633602 156.0
+receivePositionMessage : 279 0.575 0.61177 158.0
+receivePositionMessage : 279 0.575 0.61177 158.0
+receiveBallCollisionMessage : 281 0.49537 0.512577 -0.090741 0.309445 162.0
+sendBallCollisionAck : 281 R55.0@
+receiveBallCollisionMessage : 282 0.49537 0.512577 -0.090741 0.309445 162.0
+sendBallCollisionAck : 282 R56.0@
+receiveBallCollisionMessage : 282 0.49537 0.512577 -0.090741 0.309445 162.0
+sendBallCollisionAck : 282 R57.0@
+receiveBallCollisionMessage : 282 0.49537 0.512577 -0.090741 0.309445 162.0
+sendBallCollisionAck : 282 R58.0@
+receiveBallCollisionMessage : 283 0.49537 0.512577 -0.090741 0.309445 164.0
+sendBallCollisionAck : 284 R59.0@
+receiveBallCollisionMessage : 284 0.49537 0.512577 -0.090741 0.309445 164.0
+sendBallCollisionAck : 284 R60.0@
+receivePositionMessage : 285 0.355556 0.551495 165.0
+receivePositionMessage : 287 0.334259 0.55102 167.0
+receivePositionMessage : 287 0.334259 0.55102 167.0
+receivePositionMessage : 289 0.337037 0.55102 169.0
+receiveBallCollisionMessage : 289 0.489815 0.53346 0.087963 0.347413 170.0
+sendBallCollisionAck : 289 R61.0@
+receiveBallCollisionMessage : 290 0.489815 0.53346 0.087963 0.347413 170.0
+sendBallCollisionAck : 290 R62.0@
+receivePositionMessage : 291 0.334259 0.552444 171.0
+receiveBallCollisionMessage : 293 0.490741 0.539155 0.105556 0.417181 175.0
+sendBallCollisionAck : 293 R63.0@
+receiveBallCollisionMessage : 293 0.490741 0.539155 0.105556 0.417181 175.0
+sendBallCollisionAck : 293 R64.0@
+receiveBallCollisionMessage : 293 0.490741 0.539155 0.105556 0.417181 175.0
+sendBallCollisionAck : 293 R65.0@
+receiveBallCollisionMessage : 293 0.490741 0.539155 0.105556 0.417181 175.0
+sendBallCollisionAck : 293 R66.0@
+receivePositionMessage : 294 0.334259 0.554343 176.0
+receiveBallCollisionMessage : 295 0.490741 0.539155 0.105556 0.417181 177.0
+sendBallCollisionAck : 295 R67.0@
+receiveBallCollisionMessage : 296 0.490741 0.539155 0.105556 0.417181 179.0
+sendBallCollisionAck : 296 R68.0@
+receiveBallCollisionMessage : 296 0.490741 0.539155 0.105556 0.417181 179.0
+sendBallCollisionAck : 297 R69.0@
+receiveBallCollisionMessage : 297 0.490741 0.539155 0.105556 0.417181 181.0
+sendBallCollisionAck : 297 R70.0@
+receiveBallCollisionMessage : 297 0.490741 0.539155 0.105556 0.417181 181.0
+sendBallCollisionAck : 297 R71.0@
+receivePositionMessage : 298 0.337037 0.559089 182.0
+receivePositionMessage : 301 0.337963 0.561462 183.0
+receiveBallCollisionMessage : 302 0.494444 0.553393 0.242593 0.463692 185.0
+sendBallCollisionAck : 302 R72.0@
+receiveBallCollisionMessage : 302 0.494444 0.553393 0.242593 0.463692 185.0
+sendBallCollisionAck : 302 R73.0@
+receivePositionMessage : 303 0.359259 0.596583 186.0
+receiveBallCollisionMessage : 305 0.502778 0.56953 0.516667 0.334124 189.0
+sendBallCollisionAck : 305 R74.0@
+receiveBallCollisionMessage : 305 0.502778 0.56953 0.516667 0.334124 189.0
+sendBallCollisionAck : 305 R75.0@
+receiveBallCollisionMessage : 305 0.502778 0.56953 0.516667 0.334124 189.0
+sendBallCollisionAck : 305 R76.0@
+receiveBallCollisionMessage : 306 0.502778 0.56953 0.516667 0.334124 191.0
+sendBallCollisionAck : 306 R77.0@
+receiveBallCollisionMessage : 306 0.502778 0.56953 0.516667 0.334124 191.0
+sendBallCollisionAck : 306 R78.0@
+receivePositionMessage : 309 0.458333 0.657333 193.0
+receivePositionMessage : 310 0.458333 0.657333 193.0
+receivePositionMessage : 312 0.458333 0.686758 195.0
+receivePositionMessage : 312 0.458333 0.686758 195.0
+receivePositionMessage : 314 0.459259 0.704794 197.0
+receivePositionMessage : 314 0.459259 0.704794 197.0
+receivePositionMessage : 316 0.462963 0.724727 199.0
+receivePositionMessage : 316 0.462963 0.724727 199.0
+receivePositionMessage : 318 0.464815 0.738016 201.0
+receivePositionMessage : 319 0.464815 0.738016 201.0
+receivePositionMessage : 321 0.467593 0.753204 203.0
+receivePositionMessage : 321 0.467593 0.753204 203.0
+receivePositionMessage : 323 0.469444 0.76317 204.0
+receivePositionMessage : 328 0.471296 0.766493 205.0
+receivePositionMessage : 329 0.486111 0.77551 210.0
+receivePositionMessage : 329 0.486111 0.77551 210.0
+receivePositionMessage : 329 0.486111 0.77551 210.0
+receivePositionMessage : 329 0.486111 0.77551 210.0
+receivePositionMessage : 331 0.491667 0.777409 211.0
+receivePositionMessage : 332 0.501852 0.782629 212.0
+receivePositionMessage : 336 0.527778 0.78785 215.0
+receivePositionMessage : 336 0.527778 0.78785 215.0
+receivePositionMessage : 336 0.559259 0.785002 216.0
+receivePositionMessage : 337 0.559259 0.785002 216.0
+receiveBallCollisionMessage : 339 0.722222 0.711438 0.651852 0.353583 220.0
+sendBallCollisionAck : 339 R79.0@
+receiveBallCollisionMessage : 339 0.722222 0.711438 0.651852 0.353583 220.0
+sendBallCollisionAck : 339 R80.0@
+receiveBallCollisionMessage : 339 0.722222 0.711438 0.651852 0.353583 220.0
+sendBallCollisionAck : 339 R81.0@
+receiveBallCollisionMessage : 339 0.722222 0.711438 0.651852 0.353583 220.0
+sendBallCollisionAck : 340 R82.0@
+receiveBallCollisionMessage : 340 0.722222 0.711438 0.651852 0.353583 222.0
+sendBallCollisionAck : 340 R83.0@
+receiveBallCollisionMessage : 340 0.722222 0.711438 0.651852 0.353583 222.0
+sendBallCollisionAck : 340 R84.0@
+receivePositionMessage : 343 0.887963 0.694352 224.0
+receivePositionMessage : 343 0.887963 0.694352 224.0
+receivePositionMessage : 345 0.9 0.685335 226.0
+receivePositionMessage : 345 0.9 0.685335 226.0
+receivePositionMessage : 347 0.9 0.681538 228.0
+receivePositionMessage : 348 0.9 0.681538 228.0
+receivePositionMessage : 350 0.9 0.67869 230.0
+receivePositionMessage : 350 0.9 0.67869 230.0
+receivePositionMessage : 352 0.9 0.679165 232.0
+receivePositionMessage : 352 0.9 0.679165 232.0
+receivePositionMessage : 354 0.9 0.680589 234.0
+receivePositionMessage : 354 0.9 0.680589 234.0
+receivePositionMessage : 356 0.9 0.682012 236.0
+receivePositionMessage : 356 0.9 0.682012 236.0
+receivePositionMessage : 358 0.9 0.683436 238.0
+receivePositionMessage : 358 0.9 0.683436 238.0
+receivePositionMessage : 360 0.9 0.684385 240.0
+receivePositionMessage : 361 0.9 0.684385 240.0
+receivePositionMessage : 364 0.9 0.685335 242.0
+receivePositionMessage : 364 0.9 0.685335 242.0
+receiveGoalScoredMessage : 391 1.0 243.0
+sendGoalScoredAck : 393 F1.0#85.0@
+receiveGoalScoredMessage : 396 1.0 244.0
+sendGoalScoredAck : 397 F1.0#86.0@
+sendStrikerPosition : 450 P0.481481#0.851171#87.000000@
+receivePositionMessage : 450 0.5 0.897485 246.0
+receivePositionMessage : 451 0.5 0.897485 246.0
+sendStrikerPosition : 451 P0.471296#0.829431#88.000000@
+sendStrikerPosition : 452 P0.450926#0.782051#89.000000@
+receivePositionMessage : 452 0.5 0.897485 247.0
+sendStrikerPosition : 453 P0.440741#0.760312#90.000000@
+receivePositionMessage : 453 0.496296 0.894637 248.0
+sendStrikerPosition : 454 P0.433333#0.743590#91.000000@
+receivePositionMessage : 454 0.484259 0.879449 249.0
+sendStrikerPosition : 455 P0.426852#0.728540#92.000000@
+receivePositionMessage : 455 0.478704 0.87233 250.0
+sendStrikerPosition : 456 P0.422222#0.718506#93.000000@
+receivePositionMessage : 456 0.473148 0.865686 251.0
+sendStrikerPosition : 457 P0.422222#0.714047#94.000000@
+receivePositionMessage : 457 0.468519 0.857143 252.0
+sendStrikerPosition : 458 P0.421296#0.712932#95.000000@
+receivePositionMessage : 458 0.464815 0.845752 253.0
+sendStrikerPosition : 459 P0.419444#0.711817#96.000000@
+receivePositionMessage : 459 0.462963 0.831514 254.0
+sendStrikerPosition : 460 P0.420370#0.710702#97.000000@
+receivePositionMessage : 460 0.471296 0.80019 255.0
+sendStrikerPosition : 462 P0.426852#0.727982#98.000000@
+receivePositionMessage : 462 0.5 0.602753 257.0
+receivePositionMessage : 463 0.5 0.602753 257.0
+sendStrikerPosition : 463 P0.438889#0.750836#99.000000@
+sendStrikerPosition : 464 P0.451852#0.769788#100.000000@
+receiveBallCollisionMessage : 464 0.5 0.499288 0.0 0.004271 260.0
+sendBallCollisionAck : 465 R101.0@
+sendStrikerPosition : 465 P0.466667#0.787625#102.000000@
+receiveBallCollisionMessage : 465 0.5 0.499288 0.0 0.004271 260.0
+sendBallCollisionAck : 465 R103.0@
+receiveBallCollisionMessage : 465 0.5 0.499288 0.0 0.004271 260.0
+sendBallCollisionAck : 465 R104.0@
+sendStrikerPosition : 466 P0.479630#0.800446#105.000000@
+sendStrikerPosition : 467 P0.490741#0.810479#106.000000@
+receiveBallCollisionMessage : 467 0.5 0.499288 0.0 0.004271 264.0
+sendBallCollisionAck : 467 R107.0@
+receiveBallCollisionMessage : 467 0.5 0.499288 0.0 0.004271 264.0
+sendBallCollisionAck : 467 R108.0@
+receiveBallCollisionMessage : 467 0.5 0.499288 0.0 0.004271 264.0
+sendBallCollisionAck : 467 R109.0@
+sendStrikerPosition : 468 P0.490741#0.810479#110.000000@
+receiveBallCollisionMessage : 468 0.5 0.499288 0.0 0.004271 264.0
+sendBallCollisionAck : 468 R111.0@
+sendStrikerPosition : 469 P0.500000#0.817726#112.000000@
+sendStrikerPosition : 470 P0.502778#0.819398#113.000000@
+sendStrikerPosition : 471 P0.503704#0.820513#114.000000@
+receiveBallCollisionMessage : 471 0.5 0.499288 0.0 0.004271 266.0
+sendBallCollisionAck : 471 R115.0@
+receiveBallCollisionMessage : 471 0.5 0.499288 0.0 0.004271 266.0
+sendBallCollisionAck : 471 R116.0@
+sendStrikerPosition : 472 P0.504630#0.821628#117.000000@
+sendStrikerPosition : 473 P0.506481#0.822185#118.000000@
+sendStrikerPosition : 474 P0.508333#0.823300#119.000000@
+receiveBallCollisionMessage : 474 0.5 0.499288 9.26E-4 -9.49E-4 268.0
+sendBallCollisionAck : 474 R120.0@
+sendStrikerPosition : 475 P0.509259#0.823857#121.000000@
+sendStrikerPosition : 476 P0.510185#0.824415#122.000000@
+receiveBallCollisionMessage : 476 0.5 0.499288 9.26E-4 -9.49E-4 269.0
+sendBallCollisionAck : 476 R123.0@
+sendStrikerPosition : 477 P0.511111#0.824972#124.000000@
+sendStrikerPosition : 479 P0.512037#0.825530#125.000000@
+sendStrikerPosition : 480 P0.512037#0.826087#126.000000@
+sendStrikerPosition : 482 P0.512037#0.826644#127.000000@
+receiveBallCollisionMessage : 482 0.5 0.499288 9.26E-4 -9.49E-4 270.0
+sendBallCollisionAck : 482 R128.0@
+sendStrikerPosition : 483 P0.512037#0.827202#129.000000@
+receiveBallCollisionMessage : 483 0.5 0.499288 9.26E-4 -9.49E-4 271.0
+sendBallCollisionAck : 483 R130.0@
+sendStrikerPosition : 485 P0.512037#0.827759#131.000000@
+sendStrikerPosition : 486 P0.512037#0.828317#132.000000@
+sendStrikerPosition : 487 P0.512037#0.828874#133.000000@
+sendStrikerPosition : 489 P0.512963#0.829989#134.000000@
+sendStrikerPosition : 491 P0.512963#0.829989#135.000000@
+sendStrikerPosition : 492 P0.512963#0.831104#136.000000@
+sendStrikerPosition : 493 P0.512963#0.832776#137.000000@
+sendStrikerPosition : 494 P0.512963#0.833333#138.000000@
+sendStrikerPosition : 495 P0.512963#0.833891#139.000000@
+sendStrikerPosition : 496 P0.512963#0.834448#140.000000@
+sendStrikerPosition : 497 P0.512963#0.835006#141.000000@
+sendStrikerPosition : 498 P0.512963#0.835563#142.000000@
+sendStrikerPosition : 500 P0.512963#0.835563#143.000000@
+sendStrikerPosition : 502 P0.512963#0.836120#144.000000@
+sendStrikerPosition : 508 P0.512037#0.837235#145.000000@
+receivePositionMessage : 510 0.476852 0.580446 272.0
+receivePositionMessage : 511 0.476852 0.58187 273.0
+sendStrikerPosition : 512 P0.511111#0.837235#146.000000@
+receivePositionMessage : 512 0.476852 0.588514 274.0
+receivePositionMessage : 513 0.478704 0.594684 275.0
+receivePositionMessage : 519 0.47963 0.620788 278.0
+receivePositionMessage : 519 0.47963 0.620788 278.0
+receivePositionMessage : 519 0.47963 0.620788 278.0
+receivePositionMessage : 520 0.477778 0.644518 281.0
+receivePositionMessage : 522 0.478704 0.65496 283.0
+receivePositionMessage : 522 0.478704 0.65496 283.0
+receivePositionMessage : 524 0.478704 0.658282 284.0
+receivePositionMessage : 525 0.478704 0.660655 285.0
+receivePositionMessage : 527 0.47963 0.663028 287.0
+receivePositionMessage : 527 0.47963 0.663028 287.0
+receivePositionMessage : 529 0.47963 0.663028 288.0
+receivePositionMessage : 530 0.47963 0.663028 289.0
+receivePositionMessage : 532 0.47963 0.662079 291.0
+receivePositionMessage : 532 0.47963 0.662079 291.0
+receivePositionMessage : 534 0.481481 0.66018 293.0
+receivePositionMessage : 534 0.481481 0.66018 293.0
+receivePositionMessage : 536 0.480556 0.657333 294.0
+receivePositionMessage : 539 0.485185 0.648315 296.0
+receivePositionMessage : 539 0.485185 0.648315 296.0
+receivePositionMessage : 541 0.488889 0.642145 298.0
+receivePositionMessage : 541 0.488889 0.642145 298.0
+receivePositionMessage : 543 0.491667 0.627432 300.0
+receivePositionMessage : 543 0.491667 0.627432 300.0
+receiveBallCollisionMessage : 548 0.501852 0.497864 0.001852 0.002848 304.0
+sendBallCollisionAck : 548 R147.0@
+receiveBallCollisionMessage : 548 0.501852 0.497864 0.001852 0.002848 304.0
+sendBallCollisionAck : 548 R148.0@
+receiveBallCollisionMessage : 548 0.501852 0.497864 0.001852 0.002848 304.0
+sendBallCollisionAck : 548 R149.0@
+receiveBallCollisionMessage : 548 0.501852 0.497864 0.001852 0.002848 304.0
+sendBallCollisionAck : 548 R150.0@
+receiveBallCollisionMessage : 551 0.501852 0.497864 0.002778 0.002848 309.0
+sendBallCollisionAck : 551 R151.0@
+receiveBallCollisionMessage : 551 0.501852 0.497864 0.002778 0.002848 309.0
+sendBallCollisionAck : 551 R152.0@
+receiveBallCollisionMessage : 551 0.501852 0.497864 0.002778 0.002848 309.0
+sendBallCollisionAck : 551 R153.0@
+receiveBallCollisionMessage : 551 0.501852 0.497864 0.002778 0.002848 309.0
+sendBallCollisionAck : 551 R154.0@
+receiveBallCollisionMessage : 551 0.501852 0.497864 0.002778 0.002848 309.0
+sendBallCollisionAck : 551 R155.0@
+receiveBallCollisionMessage : 553 0.501852 0.497864 0.002778 0.002848 311.0
+sendBallCollisionAck : 553 R156.0@
+receiveBallCollisionMessage : 553 0.501852 0.497864 0.002778 0.002848 311.0
+sendBallCollisionAck : 553 R157.0@
+receiveBallCollisionMessage : 554 0.501852 0.497864 0.002778 0.002848 313.0
+sendBallCollisionAck : 554 R158.0@
+receiveBallCollisionMessage : 554 0.501852 0.497864 0.002778 0.002848 313.0
+sendBallCollisionAck : 554 R159.0@
+receiveBallCollisionMessage : 555 0.501852 0.497864 0.002778 0.002848 315.0
+sendBallCollisionAck : 555 R160.0@
+receiveBallCollisionMessage : 555 0.501852 0.497864 0.002778 0.002848 315.0
+sendBallCollisionAck : 555 R161.0@
+receivePositionMessage : 558 0.505556 0.579497 317.0
+receivePositionMessage : 558 0.505556 0.579497 318.0
+receivePositionMessage : 559 0.505556 0.579497 318.0
+receivePositionMessage : 562 0.50463 0.579972 320.0
+receivePositionMessage : 562 0.50463 0.579972 320.0
+receiveBallCollisionMessage : 564 0.501852 0.498339 0.003704 0.001424 322.0
+sendBallCollisionAck : 564 R162.0@
+receiveBallCollisionMessage : 564 0.501852 0.498339 0.003704 0.001424 322.0
+sendBallCollisionAck : 564 R163.0@
+receivePositionMessage : 564 0.506481 0.579972 323.0
+receiveBallCollisionMessage : 565 0.501852 0.498339 0.003704 0.001424 324.0
+sendBallCollisionAck : 565 R164.0@
+receivePositionMessage : 566 0.507407 0.579972 325.0
+sendStrikerPosition : 567 P0.525000#0.829431#165.000000@
+receivePositionMessage : 567 0.510185 0.579972 326.0
+receivePositionMessage : 569 0.516667 0.579497 328.0
+receivePositionMessage : 569 0.516667 0.579497 328.0
+sendStrikerPosition : 570 P0.524074#0.829431#166.000000@
+receiveBallCollisionMessage : 570 0.501852 0.498339 0.003704 4.75E-4 330.0
+sendBallCollisionAck : 570 R167.0@
+sendStrikerPosition : 571 P0.524074#0.828317#168.000000@
+receiveBallCollisionMessage : 571 0.501852 0.498339 0.003704 4.75E-4 330.0
+sendBallCollisionAck : 571 R169.0@
+receivePositionMessage : 571 0.516667 0.579497 331.0
+receiveBallCollisionMessage : 571 0.501852 0.498339 0.003704 4.75E-4 332.0
+sendBallCollisionAck : 571 R170.0@
+receivePositionMessage : 573 0.518519 0.579497 333.0
+sendStrikerPosition : 574 P0.524074#0.828317#171.000000@
+receivePositionMessage : 575 0.522222 0.601329 335.0
+receivePositionMessage : 575 0.522222 0.601329 335.0
+receivePositionMessage : 577 0.525 0.635501 337.0
+receivePositionMessage : 577 0.525 0.635501 337.0
+receivePositionMessage : 579 0.526852 0.651637 339.0
+receivePositionMessage : 579 0.526852 0.651637 339.0
+receivePositionMessage : 581 0.526852 0.66018 341.0
+receivePositionMessage : 581 0.526852 0.66018 341.0
+receivePositionMessage : 584 0.526852 0.660655 342.0
+receivePositionMessage : 585 0.526852 0.661604 343.0
+receivePositionMessage : 586 0.526852 0.662079 344.0
+receivePositionMessage : 587 0.526852 0.662553 345.0
+receivePositionMessage : 589 0.526852 0.662553 347.0
+receivePositionMessage : 589 0.526852 0.662553 347.0
+receivePositionMessage : 591 0.526852 0.662553 349.0
+receivePositionMessage : 591 0.526852 0.662553 349.0
+receivePositionMessage : 593 0.526852 0.662553 350.0
+receivePositionMessage : 600 0.526852 0.662553 351.0
+sendStrikerPosition : 601 P0.523148#0.828317#172.000000@
+receivePositionMessage : 605 0.526852 0.662553 352.0
+receivePositionMessage : 608 0.526852 0.663028 353.0
+receivePositionMessage : 610 0.526852 0.664452 355.0
+receivePositionMessage : 610 0.526852 0.664452 355.0
+sendStrikerPosition : 611 P0.524074#0.828317#173.000000@
+receivePositionMessage : 612 0.525926 0.665876 357.0
+receivePositionMessage : 612 0.525926 0.665876 357.0
+sendStrikerPosition : 614 P0.524074#0.828317#174.000000@
+receivePositionMessage : 614 0.525926 0.66635 359.0
+receivePositionMessage : 614 0.525926 0.66635 359.0
+sendStrikerPosition : 616 P0.525000#0.827759#175.000000@
+sendStrikerPosition : 617 P0.525000#0.827759#176.000000@
+receivePositionMessage : 617 0.525926 0.666825 360.0
+sendStrikerPosition : 618 P0.525926#0.826087#177.000000@
+sendStrikerPosition : 619 P0.526852#0.825530#178.000000@
+receivePositionMessage : 619 0.525926 0.666825 361.0
+sendStrikerPosition : 620 P0.526852#0.823857#179.000000@
+receivePositionMessage : 620 0.525926 0.669673 362.0
+sendStrikerPosition : 621 P0.526852#0.822185#180.000000@
+sendStrikerPosition : 622 P0.526852#0.817726#181.000000@
+sendStrikerPosition : 623 P0.524074#0.800446#182.000000@
+receivePositionMessage : 623 0.530556 0.706217 363.0
+sendStrikerPosition : 624 P0.511111#0.772018#183.000000@
+sendStrikerPosition : 625 P0.500926#0.734671#184.000000@
+sendStrikerPosition : 626 P0.486111#0.675585#185.000000@
+receivePositionMessage : 626 0.534259 0.724252 365.0
+receivePositionMessage : 626 0.534259 0.724252 365.0
+sendStrikerPosition : 627 P0.467593#0.602564#186.000000@
+sendStrikerPosition : 628 P0.426852#0.588071#187.000000@
+sendBallCollision : 628 C0.494444#0.501115#0.072222#-0.098662#188.000000@
+sendStrikerPosition : 629 P0.402778#0.580268#189.000000@
+receivePositionMessage : 630 0.535185 0.729948 368.0
+receivePositionMessage : 630 0.535185 0.729948 368.0
+receivePositionMessage : 630 0.535185 0.729948 368.0
+receivePositionMessage : 632 0.536111 0.731372 371.0
+receivePositionMessage : 632 0.536111 0.731372 371.0
+receivePositionMessage : 633 0.537037 0.731846 372.0
+sendBallCollision : 634 C0.501852#0.491081#0.072222#-0.098662#190.000000@
+receivePositionMessage : 635 0.537037 0.732321 374.0
+receivePositionMessage : 636 0.537037 0.732321 374.0
+receivePositionMessage : 638 0.537037 0.732795 377.0
+receivePositionMessage : 638 0.537037 0.732795 377.0
+receivePositionMessage : 638 0.537037 0.732795 377.0
+receivePositionMessage : 640 0.537037 0.732795 378.0
+receivePositionMessage : 641 0.537037 0.732795 380.0
+receivePositionMessage : 641 0.537037 0.732795 380.0
+sendBallCollision : 641 C0.510185#0.479376#0.072222#-0.098662#191.000000@
+receivePositionMessage : 642 0.537037 0.732795 381.0
+receiveCollisionAckMessage : 644 382.0
+receivePositionMessage : 650 0.537037 0.732795 383.0
+receivePositionMessage : 656 0.537037 0.732795 384.0
+sendStrikerPosition : 659 P0.400000#0.578595#192.000000@
+sendStrikerPosition : 660 P0.396296#0.599777#193.000000@
+sendStrikerPosition : 662 P0.399074#0.612598#194.000000@
+receivePositionMessage : 662 0.537037 0.732795 385.0
+sendStrikerPosition : 663 P0.406481#0.632107#195.000000@
+receivePositionMessage : 663 0.536111 0.73327 386.0
+sendStrikerPosition : 664 P0.416667#0.659420#196.000000@
+receivePositionMessage : 664 0.535185 0.73327 387.0
+sendStrikerPosition : 665 P0.428704#0.687291#197.000000@
+receivePositionMessage : 665 0.531481 0.734219 388.0
+sendStrikerPosition : 666 P0.443519#0.714604#198.000000@
+sendStrikerPosition : 667 P0.460185#0.741360#199.000000@
+receivePositionMessage : 667 0.527778 0.735168 389.0
+sendStrikerPosition : 668 P0.472222#0.763099#200.000000@
+receivePositionMessage : 668 0.519444 0.738965 390.0
+sendStrikerPosition : 669 P0.482407#0.781494#201.000000@
+receivePositionMessage : 669 0.512037 0.742288 391.0
+sendStrikerPosition : 670 P0.487037#0.794314#202.000000@
+receivePositionMessage : 670 0.512037 0.742288 392.0
+sendStrikerPosition : 671 P0.490741#0.801003#203.000000@
+receivePositionMessage : 671 0.503704 0.749881 393.0
+sendStrikerPosition : 672 P0.491667#0.806020#204.000000@
+receivePositionMessage : 672 0.5 0.753678 394.0
+sendStrikerPosition : 673 P0.493519#0.808250#205.000000@
+receivePositionMessage : 673 0.496296 0.758424 395.0
+sendStrikerPosition : 674 P0.494444#0.809922#206.000000@
+receivePositionMessage : 674 0.491667 0.762696 396.0
+sendStrikerPosition : 675 P0.494444#0.811594#207.000000@
+receivePositionMessage : 675 0.488889 0.767916 397.0
+sendStrikerPosition : 676 P0.494444#0.812709#208.000000@
+receivePositionMessage : 676 0.486111 0.770764 398.0
+receivePositionMessage : 676 0.484259 0.772663 399.0
+sendStrikerPosition : 677 P0.495370#0.814939#209.000000@
+receivePositionMessage : 677 0.483333 0.773612 400.0
+sendStrikerPosition : 678 P0.495370#0.816054#210.000000@
+receivePositionMessage : 678 0.482407 0.773612 401.0
+sendStrikerPosition : 679 P0.495370#0.817168#211.000000@
+receivePositionMessage : 679 0.481481 0.773612 402.0
+sendStrikerPosition : 680 P0.495370#0.818283#212.000000@
+receivePositionMessage : 681 0.480556 0.773137 403.0
+sendStrikerPosition : 681 P0.495370#0.818841#213.000000@
+receivePositionMessage : 681 0.480556 0.772188 404.0
+sendStrikerPosition : 682 P0.495370#0.819955#214.000000@
+receivePositionMessage : 682 0.480556 0.770764 405.0
+sendStrikerPosition : 683 P0.495370#0.820513#215.000000@
+receivePositionMessage : 683 0.480556 0.76934 406.0
+sendStrikerPosition : 684 P0.495370#0.821070#216.000000@
+receivePositionMessage : 684 0.480556 0.767916 407.0
+sendStrikerPosition : 685 P0.495370#0.821070#217.000000@
+receivePositionMessage : 685 0.480556 0.766967 408.0
+sendStrikerPosition : 686 P0.495370#0.822185#218.000000@
+receivePositionMessage : 686 0.480556 0.766018 409.0
+sendStrikerPosition : 687 P0.495370#0.822185#219.000000@
+receivePositionMessage : 687 0.480556 0.765069 410.0
+sendStrikerPosition : 690 P0.495370#0.822742#220.000000@
+receivePositionMessage : 690 0.47963 0.763645 412.0
+receivePositionMessage : 690 0.47963 0.763645 412.0
+receivePositionMessage : 693 0.477778 0.762221 414.0
+receivePositionMessage : 693 0.477778 0.762221 414.0
+receivePositionMessage : 695 0.475926 0.760797 416.0
+receivePositionMessage : 695 0.475926 0.760797 416.0
+receivePositionMessage : 697 0.472222 0.758424 418.0
+receivePositionMessage : 697 0.472222 0.758424 418.0
+receivePositionMessage : 699 0.44537 0.718083 420.0
+receivePositionMessage : 699 0.44537 0.718083 420.0
+receiveBallCollisionMessage : 700 0.425926 0.608923 -0.150926 -1.253441 421.0
+sendBallCollisionAck : 700 R221.0@
+sendStrikerPosition : 702 P0.495370#0.822742#222.000000@
+receivePositionMessage : 702 0.391667 0.688657 423.0
+receivePositionMessage : 702 0.391667 0.688657 423.0
+sendStrikerPosition : 709 P0.496296#0.823300#223.000000@
+sendStrikerPosition : 711 P0.497222#0.823300#224.000000@
+receivePositionMessage : 711 0.4 0.528714 -1.100926
+receiveBallCollisionMessage : 711 0.4 0.528714 -1.100926 -0.953963 428.0
+sendBallCollisionAck : 711 R225.0@
+receivePositionMessage : 711 0.297222 0.598007 429.0
+receivePositionMessage : 711 0.297222 0.598007 429.0
+receiveBallCollisionMessage : 712 0.366667 0.518272 -2.453704 0.007119 435.0
+sendBallCollisionAck : 712 R226.0@
+receiveBallCollisionMessage : 712 0.366667 0.518272 -2.453704 0.007119 436.0
+sendBallCollisionAck : 712 R227.0@
+sendStrikerPosition : 713 P0.497222#0.823300#228.000000@
+receiveBallCollisionMessage : 713 0.366667 0.518272 -2.453704 0.007119 436.0
+sendBallCollisionAck : 713 R229.0@
+receiveBallCollisionMessage : 713 0.366667 0.518272 -2.453704 0.007119 436.0
+sendBallCollisionAck : 713 R230.0@
+receiveBallCollisionMessage : 713 0.366667 0.518272 -2.453704 0.007119 436.0
+sendBallCollisionAck : 713 R231.0@
+receiveBallCollisionMessage : 713 0.366667 0.518272 -2.453704 0.007119 436.0
+sendBallCollisionAck : 713 R232.0@
+receiveBallCollisionMessage : 713 0.366667 0.518272 -2.453704 0.007119 436.0
+sendBallCollisionAck : 713 R233.0@
+receiveBallCollisionMessage : 713 0.366667 0.518272 -2.453704 0.007119 436.0
+sendBallCollisionAck : 713 R234.0@
+receiveBallCollisionMessage : 713 0.366667 0.518272 -2.453704 0.007119 436.0
+sendBallCollisionAck : 713 R235.0@
+sendStrikerPosition : 714 P0.499074#0.823300#236.000000@
+receivePositionMessage : 714 0.351852 0.59943 437.0
+receivePositionMessage : 715 0.368519 0.599905 442.0
+receivePositionMessage : 715 0.377778 0.595634 443.0
+receivePositionMessage : 716 0.377778 0.595634 443.0
+sendStrikerPosition : 716 P0.500000#0.823300#237.000000@
+receivePositionMessage : 716 0.377778 0.595634 443.0
+receivePositionMessage : 716 0.377778 0.595634 443.0
+receivePositionMessage : 716 0.377778 0.595634 443.0
+receivePositionMessage : 716 0.385185 0.604651 444.0
+sendStrikerPosition : 717 P0.500926#0.823300#238.000000@
+sendStrikerPosition : 718 P0.501852#0.823300#239.000000@
+receivePositionMessage : 718 0.402778 0.630755 446.0
+receivePositionMessage : 718 0.402778 0.630755 446.0
+sendStrikerPosition : 719 P0.502778#0.823300#240.000000@
+receivePositionMessage : 719 0.409259 0.640721 447.0
+sendStrikerPosition : 720 P0.504630#0.823300#241.000000@
+receivePositionMessage : 720 0.413889 0.650214 448.0
+sendStrikerPosition : 721 P0.506481#0.822742#242.000000@
+receivePositionMessage : 721 0.418519 0.658282 449.0
+sendStrikerPosition : 722 P0.509259#0.822742#243.000000@
+receivePositionMessage : 722 0.421296 0.66635 450.0
+sendStrikerPosition : 723 P0.515741#0.822185#244.000000@
+receivePositionMessage : 723 0.425 0.674419 451.0
+sendStrikerPosition : 724 P0.519444#0.821628#245.000000@
+receivePositionMessage : 724 0.426852 0.682012 452.0
+sendStrikerPosition : 725 P0.525000#0.821628#246.000000@
+receivePositionMessage : 725 0.428704 0.688182 453.0
+sendStrikerPosition : 726 P0.532407#0.821070#247.000000@
+receivePositionMessage : 726 0.430556 0.693878 454.0
+sendStrikerPosition : 727 P0.544444#0.820513#248.000000@
+receivePositionMessage : 727 0.430556 0.698624 455.0
+sendStrikerPosition : 728 P0.563889#0.820513#249.000000@
+receivePositionMessage : 728 0.430556 0.70337 456.0
+sendStrikerPosition : 729 P0.592593#0.821628#250.000000@
+receivePositionMessage : 729 0.430556 0.706692 457.0
+sendStrikerPosition : 730 P0.617593#0.823300#251.000000@
+receivePositionMessage : 730 0.430556 0.710014 458.0
+sendStrikerPosition : 731 P0.637037#0.824415#252.000000@
+receivePositionMessage : 731 0.430556 0.712862 459.0
+sendStrikerPosition : 732 P0.661111#0.824415#253.000000@
+sendStrikerPosition : 733 P0.675926#0.824415#254.000000@
+receivePositionMessage : 733 0.430556 0.71571 460.0
+sendStrikerPosition : 734 P0.687963#0.824415#255.000000@
+sendStrikerPosition : 735 P0.687963#0.824415#256.000000@
+receivePositionMessage : 735 0.432407 0.721879 461.0
+receivePositionMessage : 735 0.434259 0.725202 462.0
+sendStrikerPosition : 736 P0.692593#0.824415#257.000000@
+receivePositionMessage : 736 0.433333 0.7271 463.0
+sendStrikerPosition : 737 P0.698148#0.824415#258.000000@
+receivePositionMessage : 737 0.433333 0.7271 464.0
+sendStrikerPosition : 738 P0.700000#0.823857#259.000000@
+receivePositionMessage : 738 0.434259 0.730897 465.0
+sendStrikerPosition : 739 P0.703704#0.823857#260.000000@
+receivePositionMessage : 739 0.434259 0.732321 466.0
+sendStrikerPosition : 740 P0.703704#0.823857#261.000000@
+receivePositionMessage : 740 0.434259 0.735168 467.0
+receivePositionMessage : 742 0.434259 0.736592 469.0
+receivePositionMessage : 742 0.434259 0.736592 469.0
+receivePositionMessage : 746 0.435185 0.73944 471.0
+receivePositionMessage : 746 0.435185 0.73944 471.0
+receivePositionMessage : 748 0.436111 0.743237 473.0
+receivePositionMessage : 748 0.436111 0.743237 473.0
+receivePositionMessage : 750 0.439815 0.747983 475.0
+receivePositionMessage : 750 0.439815 0.747983 475.0
+receivePositionMessage : 751 0.44537 0.750831 476.0
+receivePositionMessage : 754 0.477778 0.760797 478.0
+receivePositionMessage : 754 0.477778 0.760797 478.0
+receivePositionMessage : 756 0.508333 0.766493 480.0
+receivePositionMessage : 756 0.508333 0.766493 480.0
+receivePositionMessage : 758 0.52037 0.768866 481.0
+receivePositionMessage : 758 0.527778 0.769815 482.0
+receivePositionMessage : 760 0.546296 0.771713 483.0
+receivePositionMessage : 762 0.566667 0.773612 485.0
+receivePositionMessage : 762 0.566667 0.773612 485.0
+receivePositionMessage : 764 0.577778 0.773612 487.0
+receivePositionMessage : 764 0.577778 0.773612 487.0
+receivePositionMessage : 767 0.582407 0.772663 489.0
+receivePositionMessage : 768 0.582407 0.772663 489.0
+receivePositionMessage : 769 0.585185 0.773137 490.0
+receivePositionMessage : 770 0.588889 0.772663 491.0
+receivePositionMessage : 772 0.589815 0.772663 493.0
+receivePositionMessage : 772 0.589815 0.772663 493.0
+receivePositionMessage : 774 0.591667 0.772188 495.0
+receivePositionMessage : 774 0.591667 0.772188 495.0
+receivePositionMessage : 776 0.591667 0.771713 497.0
+receivePositionMessage : 777 0.591667 0.771713 497.0
+receivePositionMessage : 780 0.588889 0.768866 500.0
+receivePositionMessage : 780 0.588889 0.768866 500.0
+receivePositionMessage : 780 0.588889 0.768866 500.0
+receivePositionMessage : 784 0.565741 0.761272 504.0
+receivePositionMessage : 784 0.565741 0.761272 504.0
+receivePositionMessage : 784 0.565741 0.761272 504.0
+receivePositionMessage : 785 0.565741 0.761272 504.0
+receivePositionMessage : 789 0.537963 0.756051 507.0
+receivePositionMessage : 789 0.537963 0.756051 507.0
+receivePositionMessage : 789 0.537963 0.756051 507.0
+receivePositionMessage : 790 0.530556 0.754153 508.0
+receivePositionMessage : 792 0.518519 0.752729 509.0
+receivePositionMessage : 793 0.511111 0.751305 510.0
+receivePositionMessage : 795 0.494444 0.74561 513.0
+receivePositionMessage : 796 0.494444 0.74561 513.0
+receivePositionMessage : 796 0.494444 0.74561 513.0
+receivePositionMessage : 798 0.489815 0.743711 515.0
+receivePositionMessage : 798 0.489815 0.743711 515.0
+receivePositionMessage : 800 0.486111 0.742762 516.0
+receivePositionMessage : 801 0.486111 0.742288 517.0
+receivePositionMessage : 802 0.484259 0.742288 518.0
+receivePositionMessage : 803 0.483333 0.741813 519.0
+receivePositionMessage : 805 0.482407 0.741338 521.0
+receivePositionMessage : 806 0.482407 0.741338 521.0
+receivePositionMessage : 808 0.481481 0.740864 523.0
+receivePositionMessage : 808 0.481481 0.740864 523.0
+receivePositionMessage : 810 0.481481 0.740864 525.0
+receivePositionMessage : 810 0.481481 0.740864 525.0
+receivePositionMessage : 814 0.481481 0.740864 527.0
+receivePositionMessage : 814 0.481481 0.740864 527.0
+receivePositionMessage : 817 0.486111 0.740389 529.0
+receivePositionMessage : 817 0.486111 0.740389 529.0
+receivePositionMessage : 819 0.494444 0.73944 531.0
+receivePositionMessage : 819 0.494444 0.73944 531.0
+receivePositionMessage : 821 0.516667 0.738016 533.0
+receivePositionMessage : 821 0.516667 0.738016 533.0
+receivePositionMessage : 824 0.526852 0.736118 535.0
+receivePositionMessage : 824 0.526852 0.736118 535.0
+sendStrikerPosition : 827 P0.703704#0.823857#262.000000@
+sendStrikerPosition : 828 P0.623148#0.802118#263.000000@
+receivePositionMessage : 828 0.591667 0.702895 538.0
+receivePositionMessage : 828 0.591667 0.702895 538.0
+receivePositionMessage : 829 0.591667 0.702895 538.0
+sendStrikerPosition : 829 P0.623148#0.802118#264.000000@
+receivePositionMessage : 829 0.653704 0.643569 539.0
+sendStrikerPosition : 830 P0.565741#0.778149#265.000000@
+sendStrikerPosition : 831 P0.544444#0.767001#266.000000@
+receiveBallCollisionMessage : 832 0.678704 0.530138 1.473148 -0.026103 543.0
+sendBallCollisionAck : 832 R267.0@
+receiveBallCollisionMessage : 832 0.678704 0.530138 1.473148 -0.026103 543.0
+sendBallCollisionAck : 832 R268.0@
+receiveBallCollisionMessage : 833 0.678704 0.530138 1.473148 -0.026103 543.0
+sendBallCollisionAck : 833 R270.0@
+sendStrikerPosition : 833 P0.544444#0.767001#269.000000@
+receiveBallCollisionMessage : 833 0.678704 0.530138 1.473148 -0.026103 543.0
+sendBallCollisionAck : 833 R271.0@
+receivePositionMessage : 833 0.82963 0.555292 546.0
+receivePositionMessage : 833 0.82963 0.555292 546.0
+receivePositionMessage : 833 0.82963 0.555292 546.0
+sendStrikerPosition : 834 P0.488889#0.730769#272.000000@
+sendStrikerPosition : 835 P0.476852#0.719064#273.000000@
+receivePositionMessage : 835 0.853704 0.55719 548.0
+sendStrikerPosition : 836 P0.468519#0.709030#274.000000@
+receiveBallCollisionMessage : 836 0.728704 0.529188 0.82037 -0.220693 549.0
+sendBallCollisionAck : 836 R275.0@
+receiveBallCollisionMessage : 836 0.728704 0.529188 0.82037 -0.220693 549.0
+sendBallCollisionAck : 836 R276.0@
+sendStrikerPosition : 837 P0.462963#0.698439#277.000000@
+receiveBallCollisionMessage : 837 0.728704 0.529188 0.82037 -0.220693 551.0
+sendBallCollisionAck : 837 R278.0@
+receiveBallCollisionMessage : 837 0.728704 0.529188 0.82037 -0.220693 551.0
+sendBallCollisionAck : 837 R279.0@
+sendStrikerPosition : 838 P0.455556#0.685619#280.000000@
+receiveBallCollisionMessage : 838 0.728704 0.529188 0.821296 -0.220693 553.0
+sendBallCollisionAck : 838 R281.0@
+receiveBallCollisionMessage : 838 0.728704 0.529188 0.821296 -0.220693 553.0
+sendBallCollisionAck : 838 R282.0@
+sendStrikerPosition : 839 P0.448148#0.672241#283.000000@
+receiveBallCollisionMessage : 839 0.728704 0.529188 0.821296 -0.220693 555.0
+sendBallCollisionAck : 839 R284.0@
+receiveBallCollisionMessage : 839 0.728704 0.529188 0.821296 -0.220693 555.0
+sendBallCollisionAck : 839 R285.0@
+sendStrikerPosition : 840 P0.440741#0.658305#286.000000@
+receivePositionMessage : 840 0.878704 0.556716 556.0
+sendStrikerPosition : 841 P0.427778#0.644370#287.000000@
+sendStrikerPosition : 842 P0.411111#0.628763#288.000000@
+receiveBallCollisionMessage : 842 0.742593 0.525392 0.635185 -0.349312 558.0
+sendBallCollisionAck : 842 R289.0@
+receiveBallCollisionMessage : 842 0.742593 0.525392 0.635185 -0.349312 558.0
+sendBallCollisionAck : 842 R290.0@
+sendStrikerPosition : 843 P0.392593#0.614270#291.000000@
+receiveBallCollisionMessage : 843 0.742593 0.525392 0.635185 -0.349312 560.0
+sendBallCollisionAck : 843 R292.0@
+receiveBallCollisionMessage : 843 0.742593 0.525392 0.635185 -0.349312 560.0
+sendBallCollisionAck : 843 R293.0@
+sendStrikerPosition : 844 P0.370370#0.596990#294.000000@
+receivePositionMessage : 844 0.886111 0.560038 561.0
+sendStrikerPosition : 845 P0.343519#0.575251#295.000000@
+receivePositionMessage : 845 0.886111 0.560038 563.0
+sendStrikerPosition : 846 P0.325926#0.565217#296.000000@
+sendBallCollision : 846 C0.235185#0.486622#-1.455556#-0.185619#297.000000@
+receivePositionMessage : 846 0.886111 0.560038 565.0
+sendStrikerPosition : 847 P0.315741#0.569119#298.000000@
+receivePositionMessage : 847 0.886111 0.560513 567.0
+sendStrikerPosition : 848 P0.299074#0.562988#299.000000@
+receiveCollisionAckMessage : 848 568.0
+sendStrikerPosition : 849 P0.293519#0.560201#300.000000@
+receivePositionMessage : 849 0.887037 0.56336 569.0
+receiveBallCollisionMessage : 851 0.809259 0.514476 1.148148 -0.114855 574.0
+sendBallCollisionAck : 851 R301.0@
+receiveBallCollisionMessage : 851 0.809259 0.514476 1.148148 -0.114855 574.0
+sendBallCollisionAck : 852 R302.0@
+receiveBallCollisionMessage : 852 0.809259 0.514476 1.148148 -0.114855 574.0
+sendBallCollisionAck : 852 R303.0@
+receiveBallCollisionMessage : 852 0.809259 0.514476 1.148148 -0.114855 574.0
+sendBallCollisionAck : 852 R304.0@
+receiveBallCollisionMessage : 852 0.809259 0.514476 1.148148 -0.114855 574.0
+sendBallCollisionAck : 852 R305.0@
+receiveBallCollisionMessage : 853 0.809259 0.514476 1.287037 -0.213574 576.0
+sendBallCollisionAck : 853 R306.0@
+receiveBallCollisionMessage : 853 0.809259 0.514476 1.287037 -0.213574 576.0
+sendBallCollisionAck : 853 R307.0@
+receiveBallCollisionMessage : 854 0.809259 0.514476 1.287037 -0.213574 579.0
+sendBallCollisionAck : 854 R308.0@
+receiveBallCollisionMessage : 854 0.809259 0.514476 1.287037 -0.213574 579.0
+sendBallCollisionAck : 854 R309.0@
+receiveBallCollisionMessage : 854 0.809259 0.514476 1.287037 -0.213574 579.0
+sendBallCollisionAck : 854 R310.0@
+receiveBallCollisionMessage : 855 0.809259 0.514476 1.287037 -0.213574 581.0
+sendBallCollisionAck : 855 R311.0@
+receiveBallCollisionMessage : 855 0.809259 0.514476 1.287037 -0.213574 581.0
+sendBallCollisionAck : 855 R312.0@
+receiveBallCollisionMessage : 858 0.809259 0.514476 1.287037 -0.213574 585.0
+sendBallCollisionAck : 858 R313.0@
+receiveBallCollisionMessage : 858 0.809259 0.514476 1.287037 -0.213574 585.0
+sendBallCollisionAck : 858 R314.0@
+receiveBallCollisionMessage : 858 0.809259 0.514476 1.287037 -0.213574 585.0
+sendBallCollisionAck : 858 R315.0@
+receiveBallCollisionMessage : 859 0.809259 0.514476 1.287037 -0.213574 585.0
+sendBallCollisionAck : 859 R316.0@
+receiveBallCollisionMessage : 859 0.809259 0.514476 1.287037 -0.213574 587.0
+sendBallCollisionAck : 859 R317.0@
+receiveBallCollisionMessage : 859 0.809259 0.514476 1.287037 -0.213574 587.0
+sendBallCollisionAck : 859 R318.0@
+receiveBallCollisionMessage : 860 0.809259 0.514476 1.287037 -0.213574 589.0
+sendBallCollisionAck : 860 R319.0@
+receiveBallCollisionMessage : 860 0.809259 0.514476 1.287037 -0.213574 589.0
+sendBallCollisionAck : 860 R320.0@
+receivePositionMessage : 861 0.899074 0.58187 590.0
+receivePositionMessage : 866 0.900926 0.581395 591.0
+receivePositionMessage : 869 0.872222 0.58804 593.0
+receivePositionMessage : 869 0.872222 0.58804 593.0
+receiveBallCollisionMessage : 870 0.940741 0.506882 1.417593 0.38728 599.0
+sendBallCollisionAck : 870 R321.0@
+receiveBallCollisionMessage : 871 0.940741 0.506882 1.417593 0.38728 599.0
+sendBallCollisionAck : 871 R322.0@
+receiveBallCollisionMessage : 871 0.940741 0.506882 1.417593 0.38728 599.0
+sendBallCollisionAck : 871 R323.0@
+receiveBallCollisionMessage : 871 0.940741 0.506882 1.417593 0.38728 599.0
+sendBallCollisionAck : 871 R324.0@
+receiveBallCollisionMessage : 871 0.940741 0.506882 1.417593 0.38728 599.0
+sendBallCollisionAck : 871 R325.0@
+receivePositionMessage : 871 0.861111 0.577598 600.0
+receiveBallCollisionMessage : 872 0.940741 0.506882 -1.134259 0.38728 601.0
+sendBallCollisionAck : 872 R326.0@
+receiveBallCollisionMessage : 872 0.940741 0.506882 -1.134259 0.38728 601.0
+sendBallCollisionAck : 872 R327.0@
+receivePositionMessage : 873 0.861111 0.584243 602.0
+sendStrikerPosition : 874 P0.293519#0.560201#328.000000@
+receivePositionMessage : 874 0.858333 0.607024 604.0
+receivePositionMessage : 874 0.858333 0.607024 604.0
+sendStrikerPosition : 875 P0.300000#0.570792#329.000000@
+receivePositionMessage : 875 0.855556 0.615567 605.0
+sendStrikerPosition : 876 P0.332407#0.617614#330.000000@
+receivePositionMessage : 876 0.850926 0.629805 606.0
+sendStrikerPosition : 877 P0.349074#0.640468#331.000000@
+receivePositionMessage : 877 0.850926 0.629805 607.0
+sendStrikerPosition : 878 P0.371296#0.666109#332.000000@
+receivePositionMessage : 878 0.847222 0.63645 608.0
+sendStrikerPosition : 879 P0.393519#0.691750#333.000000@
+sendStrikerPosition : 880 P0.413889#0.711260#334.000000@
+receivePositionMessage : 880 0.84537 0.642145 610.0
+receivePositionMessage : 880 0.84537 0.642145 610.0
+sendStrikerPosition : 881 P0.433333#0.732999#335.000000@
+sendStrikerPosition : 882 P0.445370#0.748049#336.000000@
+receivePositionMessage : 882 0.846296 0.647366 612.0
+sendStrikerPosition : 883 P0.457407#0.763099#337.000000@
+receivePositionMessage : 883 0.846296 0.647366 612.0
+sendStrikerPosition : 884 P0.462963#0.773133#338.000000@
+receivePositionMessage : 884 0.847222 0.651163 613.0
+sendStrikerPosition : 885 P0.465741#0.782051#339.000000@
+receivePositionMessage : 885 0.849074 0.655434 614.0
+sendStrikerPosition : 886 P0.468519#0.788740#340.000000@
+receivePositionMessage : 886 0.85 0.658282 615.0
+sendStrikerPosition : 887 P0.469444#0.793200#341.000000@
+receivePositionMessage : 887 0.852778 0.661604 616.0
+sendStrikerPosition : 888 P0.470370#0.795987#342.000000@
+receivePositionMessage : 888 0.852778 0.662079 617.0
+sendStrikerPosition : 889 P0.471296#0.798216#343.000000@
+receivePositionMessage : 889 0.853704 0.663028 618.0
+sendStrikerPosition : 890 P0.471296#0.800446#344.000000@
+receivePositionMessage : 890 0.85463 0.663977 619.0
+sendStrikerPosition : 891 P0.471296#0.801561#345.000000@
+sendStrikerPosition : 892 P0.471296#0.802118#346.000000@
+receivePositionMessage : 892 0.855556 0.664926 621.0
+receivePositionMessage : 893 0.855556 0.664926 621.0
+sendStrikerPosition : 893 P0.471296#0.803233#347.000000@
+receivePositionMessage : 893 0.855556 0.665401 622.0
+sendStrikerPosition : 894 P0.469444#0.803233#348.000000@
+receivePositionMessage : 894 0.855556 0.666825 623.0
+sendStrikerPosition : 895 P0.460185#0.801561#349.000000@
+receivePositionMessage : 896 0.850926 0.671096 624.0
+sendStrikerPosition : 896 P0.454630#0.798774#350.000000@
+sendStrikerPosition : 897 P0.452778#0.796544#351.000000@
+receivePositionMessage : 898 0.824074 0.690555 626.0
+sendStrikerPosition : 898 P0.450000#0.795987#352.000000@
+receivePositionMessage : 898 0.824074 0.690555 626.0
+sendStrikerPosition : 899 P0.449074#0.794872#353.000000@
+receivePositionMessage : 899 0.807407 0.702895 627.0
+sendStrikerPosition : 900 P0.447222#0.793757#354.000000@
+receivePositionMessage : 900 0.789815 0.71571 628.0
+sendStrikerPosition : 901 P0.445370#0.792642#355.000000@
+receivePositionMessage : 901 0.750926 0.744186 629.0
+sendStrikerPosition : 902 P0.444444#0.792642#356.000000@
+receivePositionMessage : 902 0.732407 0.757475 630.0
+sendStrikerPosition : 903 P0.444444#0.790970#357.000000@
+receivePositionMessage : 903 0.718519 0.768391 631.0
+sendStrikerPosition : 904 P0.443519#0.790412#358.000000@
+receivePositionMessage : 904 0.70463 0.779307 632.0
+sendStrikerPosition : 905 P0.443519#0.789855#359.000000@
+receivePositionMessage : 905 0.684259 0.793071 633.0
+sendStrikerPosition : 906 P0.443519#0.789298#360.000000@
+receivePositionMessage : 906 0.663889 0.805885 634.0
+sendStrikerPosition : 907 P0.443519#0.788740#361.000000@
+receivePositionMessage : 907 0.644444 0.816327 635.0
+sendStrikerPosition : 908 P0.446296#0.785396#362.000000@
+receivePositionMessage : 908 0.618519 0.827243 636.0
+sendStrikerPosition : 909 P0.451852#0.778707#363.000000@
+receivePositionMessage : 909 0.596296 0.837209 637.0
+sendStrikerPosition : 910 P0.460185#0.770903#364.000000@
+receivePositionMessage : 910 0.539815 0.86094 638.0
+sendStrikerPosition : 911 P0.467593#0.764771#365.000000@
+receivePositionMessage : 911 0.496296 0.876127 639.0
+sendStrikerPosition : 912 P0.476852#0.758082#366.000000@
+receivePositionMessage : 912 0.460185 0.885619 640.0
+sendStrikerPosition : 913 P0.489815#0.750836#367.000000@
+receivePositionMessage : 914 0.432407 0.889891 641.0
+sendStrikerPosition : 914 P0.505556#0.742475#368.000000@
+receivePositionMessage : 914 0.380556 0.889416 642.0
+sendStrikerPosition : 915 P0.518519#0.736343#369.000000@
+receivePositionMessage : 915 0.380556 0.889416 643.0
+sendStrikerPosition : 916 P0.531481#0.730769#370.000000@
+receivePositionMessage : 916 0.358333 0.887518 644.0
+sendStrikerPosition : 917 P0.542593#0.726310#371.000000@
+receivePositionMessage : 917 0.337037 0.887518 645.0
+sendStrikerPosition : 918 P0.553704#0.721293#372.000000@
+sendStrikerPosition : 919 P0.562963#0.716834#373.000000@
+receivePositionMessage : 919 0.327778 0.889416 647.0
+receivePositionMessage : 919 0.327778 0.889416 647.0
+sendStrikerPosition : 920 P0.568519#0.712932#374.000000@
+sendStrikerPosition : 921 P0.577778#0.709030#375.000000@
+receivePositionMessage : 921 0.318519 0.891315 649.0
+receivePositionMessage : 921 0.318519 0.891315 649.0
+sendStrikerPosition : 922 P0.582407#0.706243#376.000000@
+sendStrikerPosition : 923 P0.585185#0.705128#377.000000@
+sendStrikerPosition : 924 P0.589815#0.702899#378.000000@
+receivePositionMessage : 924 0.29537 0.891789 651.0
+receivePositionMessage : 924 0.29537 0.891789 651.0
+sendStrikerPosition : 925 P0.592593#0.701226#379.000000@
+receivePositionMessage : 925 0.272222 0.893688 652.0
+sendStrikerPosition : 926 P0.594444#0.700669#380.000000@
+sendStrikerPosition : 927 P0.597222#0.699554#381.000000@
+receivePositionMessage : 927 0.260185 0.896061 654.0
+receivePositionMessage : 928 0.260185 0.896061 654.0
+sendStrikerPosition : 928 P0.599074#0.698439#382.000000@
+sendStrikerPosition : 929 P0.600926#0.697324#383.000000@
+receiveBallCollisionMessage : 929 0.166667 0.856194 0.462963 0.149502 657.0
+sendBallCollisionAck : 929 R384.0@
+receiveBallCollisionMessage : 930 0.166667 0.856194 0.462963 0.149502 657.0
+sendStrikerPosition : 930 P0.602778#0.696767#385.000000@
+sendBallCollisionAck : 930 R386.0@
+receiveBallCollisionMessage : 930 0.166667 0.856194 0.462963 0.149502 657.0
+sendBallCollisionAck : 930 R387.0@
+receiveBallCollisionMessage : 933 0.166667 0.856194 0.462963 0.149502 661.0
+sendBallCollisionAck : 933 R388.0@
+receiveBallCollisionMessage : 933 0.166667 0.856194 0.462963 0.149502 661.0
+sendBallCollisionAck : 933 R389.0@
+receiveBallCollisionMessage : 933 0.166667 0.856194 0.462963 0.149502 661.0
+sendBallCollisionAck : 933 R390.0@
+receivePositionMessage : 933 0.269444 0.918367 662.0
+receivePositionMessage : 933 0.269444 0.918367 662.0
+receivePositionMessage : 938 0.250926 0.930233 665.0
+receivePositionMessage : 938 0.243519 0.932131 666.0
+receivePositionMessage : 938 0.243519 0.932131 666.0
+receivePositionMessage : 939 0.235185 0.935928 667.0
+receivePositionMessage : 939 0.235185 0.935928 667.0
+receiveBallCollisionMessage : 941 0.187037 0.859516 0.428704 0.002373 672.0
+sendBallCollisionAck : 941 R391.0@
+receiveBallCollisionMessage : 941 0.187037 0.859516 0.428704 0.002373 672.0
+sendBallCollisionAck : 941 R392.0@
+receiveBallCollisionMessage : 942 0.187037 0.859516 0.428704 0.002373 672.0
+sendBallCollisionAck : 942 R393.0@
+receiveBallCollisionMessage : 942 0.187037 0.859516 0.428704 0.002373 672.0
+sendBallCollisionAck : 942 R394.0@
+receiveBallCollisionMessage : 942 0.187037 0.859516 0.428704 0.002373 672.0
+sendBallCollisionAck : 942 R395.0@
+receivePositionMessage : 946 0.22037 0.93925 679.0
+receivePositionMessage : 946 0.22037 0.93925 679.0
+receivePositionMessage : 946 0.22037 0.93925 679.0
+receivePositionMessage : 946 0.22037 0.93925 679.0
+receivePositionMessage : 946 0.22037 0.93925 679.0
+receivePositionMessage : 946 0.22037 0.93925 679.0
+receivePositionMessage : 948 0.216667 0.940199 680.0
+receivePositionMessage : 949 0.212037 0.941149 681.0
+receiveBallCollisionMessage : 952 0.216667 0.859516 0.509259 0.028477 685.0
+sendBallCollisionAck : 952 R396.0@
+receivePositionMessage : 953 0.202778 0.941149 686.0
+receivePositionMessage : 953 0.202778 0.941149 686.0
+receivePositionMessage : 953 0.202778 0.941149 686.0
+receivePositionMessage : 953 0.197222 0.940674 687.0
+receivePositionMessage : 954 0.197222 0.940674 687.0
+receivePositionMessage : 956 0.192593 0.93925 690.0
+receivePositionMessage : 956 0.233333 0.860465 0.587963
+receiveBallCollisionMessage : 956 0.233333 0.860465 0.587963 0.07831 691.0
+sendBallCollisionAck : 956 R397.0@
+receiveBallCollisionMessage : 957 0.233333 0.860465 0.587963 0.07831 691.0
+sendBallCollisionAck : 957 R398.0@
+receiveBallCollisionMessage : 958 0.234259 0.860465 0.587963 0.07831 693.0
+sendBallCollisionAck : 958 R399.0@
+receiveBallCollisionMessage : 958 0.234259 0.860465 0.587963 0.07831 693.0
+sendBallCollisionAck : 958 R400.0@
+receiveBallCollisionMessage : 959 0.234259 0.860465 0.587963 0.07831 695.0
+sendBallCollisionAck : 959 R401.0@
+receiveBallCollisionMessage : 959 0.234259 0.860465 0.587963 0.07831 695.0
+sendBallCollisionAck : 959 R402.0@
+receiveBallCollisionMessage : 960 0.234259 0.860465 0.587963 0.07831 697.0
+sendBallCollisionAck : 960 R403.0@
+receiveBallCollisionMessage : 960 0.234259 0.860465 0.587963 0.07831 697.0
+sendBallCollisionAck : 960 R404.0@
+receiveBallCollisionMessage : 961 0.234259 0.860465 0.587963 0.07831 699.0
+sendBallCollisionAck : 961 R405.0@
+receiveBallCollisionMessage : 961 0.234259 0.860465 0.587963 0.07831 699.0
+sendBallCollisionAck : 961 R406.0@
+receiveBallCollisionMessage : 965 0.243519 0.861889 0.687037 0.125297 702.0
+sendBallCollisionAck : 965 R407.0@
+receiveBallCollisionMessage : 965 0.243519 0.861889 0.687037 0.125297 702.0
+sendBallCollisionAck : 965 R408.0@
+receivePositionMessage : 965 0.197222 0.939725 703.0
+receivePositionMessage : 966 0.197222 0.939725 703.0
+receivePositionMessage : 968 0.187963 0.937826 705.0
+receivePositionMessage : 968 0.187963 0.937826 705.0
+receivePositionMessage : 969 0.181481 0.934979 707.0
+receivePositionMessage : 969 0.181481 0.934979 707.0
+receiveBallCollisionMessage : 970 0.267593 0.86616 0.726852 0.229236 708.0
+sendBallCollisionAck : 970 R409.0@
+receivePositionMessage : 971 0.183333 0.935453 710.0
+receivePositionMessage : 971 0.183333 0.935453 710.0
+receivePositionMessage : 975 0.17963 0.933555 714.0
+receivePositionMessage : 975 0.17963 0.933555 714.0
+receivePositionMessage : 975 0.17963 0.933555 714.0
+receivePositionMessage : 977 0.171296 0.929283 717.0
+receiveBallCollisionMessage : 977 0.292593 0.876127 0.723148 0.495966 718.0
+sendBallCollisionAck : 977 R410.0@
+receiveBallCollisionMessage : 977 0.292593 0.876127 0.723148 0.495966 718.0
+sendBallCollisionAck : 977 R411.0@
+receiveBallCollisionMessage : 977 0.292593 0.876127 0.723148 0.495966 718.0
+sendBallCollisionAck : 977 R412.0@
+receiveBallCollisionMessage : 978 0.292593 0.876127 0.723148 0.495966 720.0
+sendBallCollisionAck : 978 R413.0@
+receiveBallCollisionMessage : 979 0.292593 0.876127 0.723148 0.495966 720.0
+sendBallCollisionAck : 979 R414.0@
+receivePositionMessage : 980 0.164815 0.925012 721.0
+receivePositionMessage : 982 0.32037 0.803037 723.0
+receivePositionMessage : 983 0.32037 0.803037 723.0
+receivePositionMessage : 985 0.487963 0.649739 725.0
+receivePositionMessage : 985 0.487963 0.649739 725.0
+receivePositionMessage : 987 0.647222 0.587565 727.0
+receivePositionMessage : 987 0.647222 0.587565 727.0
+receivePositionMessage : 989 0.689815 0.577124 729.0
+receivePositionMessage : 989 0.689815 0.577124 729.0
+receiveGoalScoredMessage : 991 2.0 732.0
+sendGoalScoredAck : 993 F2.0#415.0@
+receiveGoalScoredMessage : 994 2.0 732.0
+sendGoalScoredAck : 995 F2.0#416.0@
+receiveGoalScoredMessage : 995 2.0 732.0
+sendGoalScoredAck : 996 F2.0#417.0@
+receivePositionMessage : 1067 0.49537 0.892264 734.0
+receivePositionMessage : 1067 0.49537 0.892264 734.0
+receivePositionMessage : 1069 0.466667 0.841006 736.0
+receivePositionMessage : 1069 0.466667 0.841006 736.0
+receivePositionMessage : 1071 0.456481 0.782155 738.0
+receivePositionMessage : 1072 0.456481 0.782155 738.0
+receivePositionMessage : 1073 0.45463 0.754153 739.0
+receivePositionMessage : 1075 0.45 0.721879 740.0
+receivePositionMessage : 1077 0.449074 0.625059 742.0
+receivePositionMessage : 1077 0.449074 0.625059 742.0
+receiveBallCollisionMessage : 1079 0.5 0.499288 0.038889 -0.056478 744.0
+sendBallCollisionAck : 1079 R418.0@
+receiveBallCollisionMessage : 1079 0.5 0.499288 0.038889 -0.056478 744.0
+sendBallCollisionAck : 1079 R419.0@
+sendStrikerPosition : 1096 P0.500000#0.879599#420.000000@
+sendStrikerPosition : 1097 P0.467593#0.843924#421.000000@
+sendStrikerPosition : 1098 P0.454630#0.826087#422.000000@
+sendStrikerPosition : 1099 P0.437037#0.803790#423.000000@
+sendStrikerPosition : 1100 P0.428704#0.792642#424.000000@
+sendStrikerPosition : 1101 P0.419444#0.779264#425.000000@
+sendStrikerPosition : 1102 P0.417593#0.772018#426.000000@
+sendStrikerPosition : 1103 P0.414815#0.765886#427.000000@
+sendStrikerPosition : 1104 P0.413889#0.763099#428.000000@
+sendStrikerPosition : 1105 P0.413889#0.760870#429.000000@
+sendStrikerPosition : 1106 P0.413889#0.759755#430.000000@
+sendStrikerPosition : 1107 P0.413889#0.758082#431.000000@
+sendStrikerPosition : 1108 P0.413889#0.757525#432.000000@
+sendStrikerPosition : 1109 P0.413889#0.756968#433.000000@
+sendStrikerPosition : 1110 P0.419444#0.762542#434.000000@
+sendStrikerPosition : 1111 P0.439815#0.785396#435.000000@
+sendStrikerPosition : 1112 P0.453704#0.805463#436.000000@
+sendStrikerPosition : 1113 P0.466667#0.821628#437.000000@
+sendStrikerPosition : 1114 P0.474074#0.835006#438.000000@
+sendStrikerPosition : 1115 P0.479630#0.841695#439.000000@
+sendStrikerPosition : 1116 P0.479630#0.845039#440.000000@
+sendStrikerPosition : 1117 P0.483333#0.847269#441.000000@
+sendStrikerPosition : 1118 P0.483333#0.847269#442.000000@
+sendStrikerPosition : 1119 P0.485185#0.848384#443.000000@
+sendStrikerPosition : 1120 P0.486111#0.849498#444.000000@
+sendStrikerPosition : 1121 P0.487037#0.850613#445.000000@
+receivePositionMessage : 1121 0.446296 0.576649 746.0
+receivePositionMessage : 1121 0.446296 0.576649 746.0
+sendStrikerPosition : 1122 P0.488889#0.851171#446.000000@
+receivePositionMessage : 1123 0.447222 0.577598 748.0
+receivePositionMessage : 1123 0.447222 0.577598 748.0
+sendStrikerPosition : 1124 P0.489815#0.819398#447.000000@
+sendStrikerPosition : 1125 P0.479630#0.775920#448.000000@
+receivePositionMessage : 1125 0.473148 0.60655 750.0
+receivePositionMessage : 1125 0.473148 0.60655 750.0
+sendStrikerPosition : 1126 P0.465741#0.710145#449.000000@
+sendBallCollision : 1126 C0.469444#0.544593#1.092593#-2.848384#450.000000@
+receivePositionMessage : 1127 0.489815 0.65496 752.0
+sendStrikerPosition : 1127 P0.432407#0.638239#451.000000@
+receivePositionMessage : 1127 0.489815 0.65496 752.0
+receivePositionMessage : 1128 0.47963 0.706692 754.0
+receivePositionMessage : 1129 0.47963 0.706692 754.0
+receivePositionMessage : 1131 0.468519 0.77029 757.0
+receivePositionMessage : 1131 0.468519 0.77029 757.0
+receivePositionMessage : 1131 0.468519 0.77029 757.0
+sendBallCollision : 1132 C0.580556#0.254181#1.092593#-2.848384#452.000000@
+receivePositionMessage : 1133 0.473148 0.782155 759.0
+receivePositionMessage : 1133 0.473148 0.782155 759.0
+receivePositionMessage : 1135 0.552778 0.770764 762.0
+receivePositionMessage : 1135 0.552778 0.770764 762.0
+receivePositionMessage : 1135 0.552778 0.770764 762.0
+receiveBallCollisionMessage : 1136 0.4 0.794495 5.065741 2.427622 763.0
+sendBallCollisionAck : 1136 R453.0@
+receiveBallCollisionMessage : 1137 0.4 0.794495 5.065741 2.427622 765.0
+sendBallCollisionAck : 1137 R454.0@
+receiveBallCollisionMessage : 1138 0.4 0.794495 5.065741 2.427622 765.0
+sendBallCollisionAck : 1138 R455.0@
+sendBallCollision : 1138 C0.600000#0.205686#-5.065741#-2.427536#456.000000@
+receivePositionMessage : 1138 0.550926 0.767442 766.0
+receiveBallCollisionMessage : 1141 0.399074 0.794495 5.065741 2.426673 771.0
+sendBallCollisionAck : 1141 R457.0@
+receiveBallCollisionMessage : 1142 0.399074 0.794495 5.065741 2.426673 771.0
+sendBallCollisionAck : 1142 R458.0@
+receiveBallCollisionMessage : 1142 0.399074 0.794495 5.065741 2.426673 771.0
+sendBallCollisionAck : 1142 R459.0@
+receiveBallCollisionMessage : 1142 0.399074 0.794495 5.065741 2.426673 773.0
+sendBallCollisionAck : 1142 R460.0@
+receiveBallCollisionMessage : 1143 0.399074 0.794495 5.065741 2.426673 773.0
+sendBallCollisionAck : 1143 R461.0@
+receivePositionMessage : 1143 0.506481 0.733745 774.0
+sendBallCollision : 1145 C0.514815#0.163880#-5.065741#-2.426421#462.000000@
+receivePositionMessage : 1146 0.484259 0.696725 776.0
+receivePositionMessage : 1146 0.484259 0.696725 776.0
+receivePositionMessage : 1148 0.513889 0.63028 779.0
+receivePositionMessage : 1148 0.513889 0.63028 779.0
+receivePositionMessage : 1148 0.513889 0.63028 779.0
+receivePositionMessage : 1150 0.547222 0.56953 781.0
+receivePositionMessage : 1150 0.547222 0.56953 781.0
+sendBallCollision : 1151 C0.059259#0.101449#-5.065741#1.940914#463.000000@
+receivePositionMessage : 1152 0.55463 0.55102 783.0
+receivePositionMessage : 1152 0.55463 0.55102 783.0
+receivePositionMessage : 1155 0.556481 0.55102 786.0
+receivePositionMessage : 1155 0.556481 0.55102 786.0
+receivePositionMessage : 1155 0.556481 0.55102 786.0
+sendBallCollision : 1158 C0.472222#0.299331#4.051852#1.940914#464.000000@
+receivePositionMessage : 1158 0.559259 0.55102 788.0
+receivePositionMessage : 1158 0.559259 0.55102 788.0
+receivePositionMessage : 1159 0.560185 0.55102 789.0
+receivePositionMessage : 1161 0.562037 0.55102 792.0
+receivePositionMessage : 1161 0.562037 0.55102 792.0
+receivePositionMessage : 1161 0.562037 0.55102 792.0
+receivePositionMessage : 1162 0.562963 0.55102 793.0
+sendBallCollision : 1164 C0.885185#0.497213#4.051852#1.940914#465.000000@
+receivePositionMessage : 1165 0.563889 0.55102 795.0
+receivePositionMessage : 1165 0.563889 0.55102 795.0
+receivePositionMessage : 1166 0.563889 0.55102 796.0
+receiveCollisionAckMessage : 1167 797.0
+receivePositionMessage : 1168 0.563889 0.55102 799.0
+receivePositionMessage : 1168 0.563889 0.55102 799.0
+receivePositionMessage : 1170 0.564815 0.55102 801.0
+receivePositionMessage : 1170 0.564815 0.55102 801.0
+receivePositionMessage : 1172 0.565741 0.55102 803.0
+receivePositionMessage : 1173 0.565741 0.55102 803.0
+receivePositionMessage : 1175 0.565741 0.55102 805.0
+receivePositionMessage : 1175 0.565741 0.55102 805.0
+receivePositionMessage : 1177 0.565741 0.55102 807.0
+receivePositionMessage : 1178 0.565741 0.55102 807.0
+receivePositionMessage : 1179 0.565741 0.55102 808.0
+receivePositionMessage : 1180 0.565741 0.55102 809.0
+receivePositionMessage : 1182 0.565741 0.55102 810.0
+receivePositionMessage : 1182 0.566667 0.55102 811.0
+receivePositionMessage : 1185 0.567593 0.55102 813.0
+receivePositionMessage : 1185 0.567593 0.55102 813.0
+sendStrikerPosition : 1187 P0.336111#0.599777#466.000000@
+sendStrikerPosition : 1188 P0.348148#0.628763#467.000000@
+receivePositionMessage : 1188 0.567593 0.55102 816.0
+receivePositionMessage : 1188 0.567593 0.55102 816.0
+receivePositionMessage : 1188 0.567593 0.55102 816.0
+sendStrikerPosition : 1189 P0.364815#0.663880#468.000000@
+sendStrikerPosition : 1190 P0.382407#0.703456#469.000000@
+sendBallCollision : 1190 C0.279630#0.779264#-1.175926#-0.531215#470.000000@
+receivePositionMessage : 1190 0.568519 0.55102 819.0
+receivePositionMessage : 1191 0.568519 0.55102 819.0
+receivePositionMessage : 1191 0.568519 0.55102 819.0
+sendStrikerPosition : 1191 P0.420370#0.735229#471.000000@
+sendBallCollision : 1191 C0.279630#0.779264#-1.175926#-0.531215#472.000000@
+receiveCollisionAckMessage : 1191 823.0
+receiveCollisionAckMessage : 1191 824.0
+receiveCollisionAckMessage : 1191 824.0
+receiveCollisionAckMessage : 1191 824.0
+sendStrikerPosition : 1192 P0.434259#0.799889#473.000000@
+sendBallCollision : 1192 C0.279630#0.779264#-1.175926#-0.531215#474.000000@
+receiveCollisionAckMessage : 1192 827.0
+receiveCollisionAckMessage : 1192 827.0
+receiveCollisionAckMessage : 1192 827.0
+receivePositionMessage : 1194 0.568519 0.55102 830.0
+receivePositionMessage : 1194 0.568519 0.55102 830.0
+receivePositionMessage : 1194 0.568519 0.55102 830.0
+receivePositionMessage : 1201 0.568519 0.55102 831.0
+receivePositionMessage : 1205 0.568519 0.55102 832.0
+receivePositionMessage : 1207 0.57037 0.55102 834.0
+receivePositionMessage : 1207 0.57037 0.55102 834.0
+receivePositionMessage : 1212 0.586111 0.577598 838.0
+receivePositionMessage : 1212 0.586111 0.577598 838.0
+receivePositionMessage : 1212 0.586111 0.577598 838.0
+receivePositionMessage : 1212 0.586111 0.577598 838.0
+receivePositionMessage : 1214 0.593519 0.594684 840.0
+receivePositionMessage : 1214 0.593519 0.594684 840.0
+receivePositionMessage : 1219 0.619444 0.632653 844.0
+receivePositionMessage : 1219 0.619444 0.632653 844.0
+receivePositionMessage : 1219 0.619444 0.632653 844.0
+receivePositionMessage : 1219 0.619444 0.632653 844.0
+receivePositionMessage : 1221 0.626852 0.641671 845.0
+receivePositionMessage : 1225 0.639815 0.658282 846.0
+receivePositionMessage : 1228 0.694444 0.705743 847.0
+receivePositionMessage : 1231 0.706481 0.710489 849.0
+receivePositionMessage : 1232 0.706481 0.710489 849.0
+receivePositionMessage : 1234 0.707407 0.710014 851.0
+receivePositionMessage : 1234 0.707407 0.710014 851.0
+receivePositionMessage : 1236 0.708333 0.710014 852.0
+receivePositionMessage : 1237 0.708333 0.710014 854.0
+receivePositionMessage : 1237 0.708333 0.710014 854.0
+receivePositionMessage : 1239 0.707407 0.711438 856.0
+receivePositionMessage : 1239 0.707407 0.711438 856.0
+receivePositionMessage : 1241 0.665741 0.748932 858.0
+receivePositionMessage : 1241 0.665741 0.748932 858.0
+receivePositionMessage : 1244 0.634259 0.773612 859.0
+receivePositionMessage : 1245 0.547222 0.843379 861.0
+receivePositionMessage : 1245 0.547222 0.843379 861.0
+receivePositionMessage : 1247 0.496296 0.887518 863.0
+receivePositionMessage : 1247 0.496296 0.887518 863.0
+receivePositionMessage : 1250 0.438889 0.915045 866.0
+receivePositionMessage : 1250 0.438889 0.915045 866.0
+receivePositionMessage : 1250 0.438889 0.915045 866.0
+receivePositionMessage : 1253 0.417593 0.916944 868.0
+receivePositionMessage : 1253 0.417593 0.916944 868.0
+receivePositionMessage : 1255 0.382407 0.912197 870.0
+receivePositionMessage : 1255 0.382407 0.912197 870.0
+receivePositionMessage : 1257 0.330556 0.90318 872.0
+receivePositionMessage : 1257 0.330556 0.90318 872.0
+receivePositionMessage : 1259 0.302778 0.898434 873.0
+receivePositionMessage : 1261 0.224074 0.879449 875.0
+receivePositionMessage : 1261 0.224074 0.879449 875.0
+receivePositionMessage : 1264 0.215741 0.87233 877.0
+receivePositionMessage : 1264 0.215741 0.87233 877.0
+receivePositionMessage : 1268 0.209259 0.859516 881.0
+receivePositionMessage : 1268 0.209259 0.859516 881.0
+receivePositionMessage : 1268 0.209259 0.859516 881.0
+receivePositionMessage : 1268 0.209259 0.859516 881.0
+receivePositionMessage : 1273 0.251852 0.801614 886.0
+receivePositionMessage : 1273 0.251852 0.801614 886.0
+receiveBallCollisionMessage : 1273 0.092593 0.807784 -0.361111 0.817276 887.0
+sendBallCollisionAck : 1273 R475.0@
+receiveBallCollisionMessage : 1273 0.092593 0.807784 -0.361111 0.817276 887.0
+sendBallCollisionAck : 1273 R476.0@
+receiveBallCollisionMessage : 1273 0.092593 0.807784 -0.361111 0.817276 887.0
+sendBallCollisionAck : 1273 R477.0@
+receiveBallCollisionMessage : 1274 0.092593 0.807784 -0.361111 0.817276 889.0
+sendBallCollisionAck : 1274 R478.0@
+receiveBallCollisionMessage : 1274 0.092593 0.807784 -0.361111 0.817276 889.0
+sendBallCollisionAck : 1274 R479.0@
+receiveBallCollisionMessage : 1274 0.092593 0.807784 -0.361111 0.817276 889.0
+sendBallCollisionAck : 1274 R480.0@
+receivePositionMessage : 1275 0.198148 0.746559 890.0
+receivePositionMessage : 1277 0.2 0.719506 892.0
+receivePositionMessage : 1277 0.2 0.719506 892.0
+receivePositionMessage : 1279 0.201852 0.715235 893.0
+receivePositionMessage : 1280 0.201852 0.715235 894.0
+receivePositionMessage : 1282 0.200926 0.71571 896.0
+receivePositionMessage : 1282 0.200926 0.71571 896.0
+receivePositionMessage : 1285 0.201852 0.718557 899.0
+receivePositionMessage : 1285 0.201852 0.718557 899.0
+receivePositionMessage : 1285 0.201852 0.718557 899.0
+receivePositionMessage : 1288 0.202778 0.72093 901.0
+receivePositionMessage : 1288 0.202778 0.72093 901.0
+receivePositionMessage : 1290 0.203704 0.722354 903.0
+receivePositionMessage : 1290 0.203704 0.722354 903.0
+receivePositionMessage : 1292 0.205556 0.725676 905.0
+receivePositionMessage : 1292 0.205556 0.725676 905.0
+receivePositionMessage : 1295 0.206481 0.726626 907.0
+receivePositionMessage : 1295 0.206481 0.726626 907.0
+receivePositionMessage : 1297 0.207407 0.7271 909.0
+receivePositionMessage : 1297 0.207407 0.7271 909.0
+receivePositionMessage : 1299 0.208333 0.728049 911.0
+receivePositionMessage : 1299 0.208333 0.728049 911.0
+receivePositionMessage : 1301 0.209259 0.728524 913.0
+receivePositionMessage : 1301 0.209259 0.728524 913.0
+receivePositionMessage : 1304 0.209259 0.728524 914.0
+receivePositionMessage : 1305 0.209259 0.728524 915.0
+receivePositionMessage : 1307 0.209259 0.728524 917.0
+receivePositionMessage : 1307 0.209259 0.728524 917.0
+receiveBallCollisionMessage : 1309 0.162037 0.802563 -0.264815 0.170859 918.0
+sendBallCollisionAck : 1309 R481.0@
+receivePositionMessage : 1314 0.209259 0.728049 919.0
+receivePositionMessage : 1315 0.211111 0.7271 920.0
+receivePositionMessage : 1317 0.212963 0.722354 922.0
+receivePositionMessage : 1317 0.212963 0.722354 922.0
+receivePositionMessage : 1319 0.216667 0.714286 924.0
+receivePositionMessage : 1319 0.216667 0.714286 924.0
+receivePositionMessage : 1320 0.218519 0.706217 925.0
+receivePositionMessage : 1325 0.234259 0.675842 929.0
+receivePositionMessage : 1325 0.234259 0.675842 929.0
+receivePositionMessage : 1325 0.234259 0.675842 929.0
+receivePositionMessage : 1325 0.234259 0.675842 929.0
+receivePositionMessage : 1327 0.243519 0.660655 930.0
+receivePositionMessage : 1328 0.249074 0.651163 932.0
+receivePositionMessage : 1328 0.249074 0.651163 932.0
+receivePositionMessage : 1330 0.252778 0.643569 934.0
+receivePositionMessage : 1330 0.252778 0.643569 934.0
+receivePositionMessage : 1333 0.256481 0.637874 936.0
+receivePositionMessage : 1333 0.256481 0.637874 936.0
+receivePositionMessage : 1335 0.262037 0.633128 938.0
+receivePositionMessage : 1335 0.262037 0.633128 938.0
+receivePositionMessage : 1337 0.265741 0.628382 940.0
+receivePositionMessage : 1337 0.265741 0.628382 940.0
+receivePositionMessage : 1339 0.265741 0.626958 941.0
+receivePositionMessage : 1340 0.267593 0.62411 942.0
+receivePositionMessage : 1342 0.267593 0.622686 944.0
+receivePositionMessage : 1343 0.267593 0.622686 944.0
+receivePositionMessage : 1345 0.266667 0.622686 946.0
+receivePositionMessage : 1345 0.266667 0.622686 946.0
+receivePositionMessage : 1347 0.265741 0.622686 948.0
+receivePositionMessage : 1347 0.265741 0.622686 948.0
+receivePositionMessage : 1351 0.262963 0.625534 951.0
+receivePositionMessage : 1351 0.262963 0.625534 951.0
+receivePositionMessage : 1352 0.262963 0.625534 951.0
+receivePositionMessage : 1357 0.262037 0.626958 952.0
+receivePositionMessage : 1358 0.260185 0.631229 957.0
+receivePositionMessage : 1358 0.260185 0.631229 957.0
+receivePositionMessage : 1358 0.260185 0.631229 957.0
+receivePositionMessage : 1358 0.260185 0.631229 957.0
+receivePositionMessage : 1363 0.257407 0.637874 961.0
+receivePositionMessage : 1363 0.257407 0.637874 961.0
+receivePositionMessage : 1363 0.257407 0.637874 961.0
+receivePositionMessage : 1363 0.257407 0.637874 961.0
+receivePositionMessage : 1365 0.235185 0.688182 962.0
+receivePositionMessage : 1366 0.196296 0.794495 964.0
+receivePositionMessage : 1366 0.196296 0.794495 964.0
+receiveBallCollisionMessage : 1369 0.149074 0.942098 -0.047222 1.043664 968.0
+sendBallCollisionAck : 1369 R482.0@
+receiveBallCollisionMessage : 1369 0.149074 0.942098 -0.047222 1.043664 968.0
+sendBallCollisionAck : 1369 R483.0@
+receiveBallCollisionMessage : 1369 0.149074 0.942098 -0.047222 1.043664 968.0
+sendBallCollisionAck : 1369 R484.0@
+receiveBallCollisionMessage : 1369 0.149074 0.942098 -0.047222 1.043664 968.0
+sendBallCollisionAck : 1369 R485.0@
+receivePositionMessage : 1370 0.183333 0.862838 969.0
+receivePositionMessage : 1372 0.205556 0.883721 972.0
+receivePositionMessage : 1372 0.205556 0.883721 972.0
+receivePositionMessage : 1372 0.205556 0.883721 972.0
+receiveBallCollisionMessage : 1375 0.215741 0.90935 -7.221296 3.117703 976.0
+sendBallCollisionAck : 1375 R486.0@
+receiveBallCollisionMessage : 1375 0.215741 0.90935 -7.221296 3.117703 976.0
+sendBallCollisionAck : 1375 R487.0@
+receiveBallCollisionMessage : 1375 0.215741 0.90935 -7.221296 3.117703 976.0
+sendBallCollisionAck : 1375 R488.0@
+receiveBallCollisionMessage : 1375 0.215741 0.90935 -7.221296 3.117703 976.0
+sendBallCollisionAck : 1375 R489.0@
+receiveBallCollisionMessage : 1376 0.215741 0.90935 -7.210185 3.101566 978.0
+sendBallCollisionAck : 1376 R490.0@
+receiveBallCollisionMessage : 1376 0.215741 0.90935 -7.210185 3.101566 978.0
+sendBallCollisionAck : 1376 R491.0@
+receiveBallCollisionMessage : 1377 0.215741 0.90935 -7.199074 3.083531 980.0
+sendBallCollisionAck : 1377 R492.0@
+receiveBallCollisionMessage : 1377 0.215741 0.90935 -7.199074 3.083531 980.0
+sendBallCollisionAck : 1377 R493.0@
+receiveBallCollisionMessage : 1380 0.215741 0.90935 -7.184259 3.071191 982.0
+sendBallCollisionAck : 1380 R494.0@
+receiveBallCollisionMessage : 1380 0.215741 0.90935 -7.184259 3.071191 982.0
+sendBallCollisionAck : 1380 R495.0@
+receiveBallCollisionMessage : 1381 0.215741 0.90935 -7.183333 3.071191 983.0
+sendBallCollisionAck : 1381 R496.0@
+receiveBallCollisionMessage : 1382 0.215741 0.90935 -7.183333 3.070717 984.0
+sendBallCollisionAck : 1382 R497.0@
+receiveBallCollisionMessage : 1384 0.215741 0.90935 -7.183333 3.070717 985.0
+sendBallCollisionAck : 1384 R498.0@
+receiveBallCollisionMessage : 1386 0.059259 0.95776 0.707407 4.372568 986.0
+sendBallCollisionAck : 1386 R499.0@
+receiveBallCollisionMessage : 1387 0.059259 0.95776 0.707407 4.372568 987.0
+sendBallCollisionAck : 1387 R500.0@
+receiveBallCollisionMessage : 1389 0.07037 0.969625 -0.216667 5.246796 988.0
+sendBallCollisionAck : 1389 R501.0@
+receiveBallCollisionMessage : 1401 0.073148 0.969625 -0.052778 6.29663 989.0
+sendBallCollisionAck : 1401 R502.0@
+receiveBallCollisionMessage : 1440 0.074074 0.969625 -0.012963 7.555766 990.0
+sendBallCollisionAck : 1440 R503.0@
+receivePositionMessage : 1445 0.232407 0.948742 992.0
+receivePositionMessage : 1445 0.232407 0.948742 992.0
+receivePositionMessage : 1450 0.232407 0.948742 996.0
+receivePositionMessage : 1450 0.232407 0.948742 996.0
+receivePositionMessage : 1450 0.232407 0.948742 996.0
+receivePositionMessage : 1450 0.232407 0.948742 996.0
+receivePositionMessage : 1454 0.232407 0.948742 997.0
+receiveBallCollisionMessage : 1457 0.071296 0.969625 6.539815 7.967252 999.0
+sendBallCollisionAck : 1457 R504.0@
+receiveBallCollisionMessage : 1457 0.071296 0.969625 6.539815 7.967252 999.0
+sendBallCollisionAck : 1457 R505.0@
+receiveBallCollisionMessage : 1460 0.182407 0.969625 15.396296 4.792121 1002.0
+sendBallCollisionAck : 1460 R506.0@
+receiveBallCollisionMessage : 1460 0.182407 0.969625 15.396296 4.792121 1002.0
+sendBallCollisionAck : 1460 R507.0@
+receiveBallCollisionMessage : 1460 0.182407 0.969625 15.396296 4.792121 1002.0
+sendBallCollisionAck : 1461 R508.0@
+receiveBallCollisionMessage : 1464 0.182407 0.969625 15.414815 4.798291 1006.0
+sendBallCollisionAck : 1464 R509.0@
+receiveBallCollisionMessage : 1464 0.182407 0.969625 15.414815 4.798291 1006.0
+sendBallCollisionAck : 1464 R510.0@
+receiveBallCollisionMessage : 1464 0.182407 0.969625 15.414815 4.798291 1006.0
+sendBallCollisionAck : 1464 R511.0@
+receiveBallCollisionMessage : 1464 0.182407 0.969625 15.414815 4.798291 1006.0
+sendBallCollisionAck : 1464 R512.0@
+receiveBallCollisionMessage : 1465 0.182407 0.969625 15.423148 4.801139 1008.0
+sendBallCollisionAck : 1465 R513.0@
+receiveBallCollisionMessage : 1465 0.182407 0.969625 15.423148 4.801139 1008.0
+sendBallCollisionAck : 1465 R514.0@
+receiveBallCollisionMessage : 1466 0.182407 0.969625 15.432407 4.803987 1010.0
+sendBallCollisionAck : 1466 R515.0@
+receiveBallCollisionMessage : 1466 0.182407 0.969625 15.432407 4.803987 1010.0
+sendBallCollisionAck : 1466 R516.0@
+receiveBallCollisionMessage : 1467 0.182407 0.969625 15.441667 4.807309 1012.0
+sendBallCollisionAck : 1467 R517.0@
+receiveBallCollisionMessage : 1468 0.182407 0.969625 15.441667 4.807309 1012.0
+sendBallCollisionAck : 1468 R518.0@
+receiveBallCollisionMessage : 1469 0.182407 0.969625 15.45 4.810157 1014.0
+sendBallCollisionAck : 1469 R519.0@
+receiveBallCollisionMessage : 1469 0.182407 0.969625 15.45 4.810157 1014.0
+sendBallCollisionAck : 1469 R520.0@
+receiveBallCollisionMessage : 1470 0.182407 0.969625 15.459259 4.813479 1016.0
+sendBallCollisionAck : 1470 R521.0@
+receiveBallCollisionMessage : 1470 0.182407 0.969625 15.459259 4.813479 1016.0
+sendBallCollisionAck : 1470 R522.0@
+receiveBallCollisionMessage : 1471 0.182407 0.969625 15.468519 4.816327 1018.0
+sendBallCollisionAck : 1471 R523.0@
+receiveBallCollisionMessage : 1471 0.182407 0.969625 15.468519 4.816327 1018.0
+sendBallCollisionAck : 1471 R524.0@
+receiveBallCollisionMessage : 1472 0.182407 0.969625 15.477778 4.819174 1020.0
+sendBallCollisionAck : 1472 R525.0@
+receiveBallCollisionMessage : 1472 0.182407 0.969625 15.477778 4.819174 1020.0
+sendBallCollisionAck : 1472 R526.0@
+receivePositionMessage : 1473 0.059259 0.923113 1021.0
+receiveBallCollisionMessage : 1475 0.182407 0.969625 15.486111 4.822496 1022.0
+sendBallCollisionAck : 1475 R527.0@
+receiveBallCollisionMessage : 1476 0.182407 0.969625 15.49537 4.825344 1024.0
+sendBallCollisionAck : 1476 R528.0@
+receiveBallCollisionMessage : 1476 0.182407 0.969625 15.49537 4.825344 1024.0
+sendBallCollisionAck : 1476 R529.0@
+receiveBallCollisionMessage : 1477 0.182407 0.969625 15.50463 4.828666 1026.0
+sendBallCollisionAck : 1477 R530.0@
+receiveBallCollisionMessage : 1477 0.182407 0.969625 15.50463 4.828666 1026.0
+sendBallCollisionAck : 1477 R531.0@
+receivePositionMessage : 1477 0.059259 0.933555 1027.0
+receiveBallCollisionMessage : 1478 0.182407 0.969625 15.513889 4.831514 1028.0
+sendBallCollisionAck : 1478 R532.0@
+receiveBallCollisionMessage : 1479 0.182407 0.969625 15.522222 4.834362 1030.0
+sendBallCollisionAck : 1479 R533.0@
+receiveBallCollisionMessage : 1479 0.182407 0.969625 15.522222 4.834362 1030.0
+sendBallCollisionAck : 1479 R534.0@
+receiveBallCollisionMessage : 1480 0.182407 0.969625 15.531481 4.837684 1032.0
+sendBallCollisionAck : 1480 R535.0@
+receiveBallCollisionMessage : 1480 0.182407 0.969625 15.531481 4.837684 1032.0
+sendBallCollisionAck : 1480 R536.0@
+receivePositionMessage : 1481 0.059259 0.923113 1033.0
+receiveBallCollisionMessage : 1482 0.182407 0.969625 15.540741 4.840532 1034.0
+sendBallCollisionAck : 1482 R537.0@
+receiveBallCollisionMessage : 1484 0.182407 0.969625 15.549074 4.843379 1036.0
+sendBallCollisionAck : 1484 R538.0@
+receiveBallCollisionMessage : 1484 0.182407 0.969625 15.549074 4.843379 1036.0
+sendBallCollisionAck : 1484 R539.0@
+receiveBallCollisionMessage : 1485 0.182407 0.969625 15.558333 4.846701 1038.0
+sendBallCollisionAck : 1485 R540.0@
+receiveBallCollisionMessage : 1485 0.182407 0.969625 15.558333 4.846701 1038.0
+sendBallCollisionAck : 1485 R541.0@
+receiveBallCollisionMessage : 1486 0.182407 0.969625 15.561111 4.847651 1039.0
+sendBallCollisionAck : 1486 R542.0@
+receiveBallCollisionMessage : 1487 0.182407 0.969625 15.561111 4.847651 1040.0
+sendBallCollisionAck : 1487 R543.0@
+receiveBallCollisionMessage : 1488 0.182407 0.969625 15.562037 4.847651 1041.0
+sendBallCollisionAck : 1488 R544.0@
+receiveBallCollisionMessage : 1489 0.183333 0.969625 15.562037 4.847651 1042.0
+sendBallCollisionAck : 1489 R545.0@
+receivePositionMessage : 1491 0.059259 0.918367 1043.0
+receiveGoalScoredMessage : 1492 3.0 1044.0
+sendGoalScoredAck : 1494 F3.0#546.0@
+sendStrikerPosition : 1560 P0.500000#0.879599#547.000000@
+sendStrikerPosition : 1561 P0.511111#0.844482#548.000000@
+receivePositionMessage : 1561 0.5 0.897485 1046.0
+receivePositionMessage : 1561 0.5 0.897485 1046.0
+sendStrikerPosition : 1562 P0.517593#0.812152#549.000000@
+receivePositionMessage : 1562 0.496296 0.896061 1048.0
+receivePositionMessage : 1562 0.496296 0.896061 1048.0
+sendStrikerPosition : 1563 P0.520370#0.778707#550.000000@
+receivePositionMessage : 1563 0.494444 0.895112 1049.0
+sendStrikerPosition : 1564 P0.521296#0.745262#551.000000@
+sendStrikerPosition : 1565 P0.516667#0.716276#552.000000@
+receivePositionMessage : 1565 0.487963 0.889891 1050.0
+sendStrikerPosition : 1566 P0.512037#0.697882#553.000000@
+receivePositionMessage : 1566 0.471296 0.86711 1051.0
+sendStrikerPosition : 1567 P0.508333#0.687291#554.000000@
+receivePositionMessage : 1567 0.455556 0.837684 1052.0
+receivePositionMessage : 1567 0.437963 0.779307 1053.0
+sendStrikerPosition : 1568 P0.505556#0.676700#555.000000@
+sendStrikerPosition : 1569 P0.505556#0.676700#556.000000@
+receivePositionMessage : 1569 0.437963 0.779307 1054.0
+receivePositionMessage : 1570 0.42963 0.744186 1055.0
+sendStrikerPosition : 1570 P0.505556#0.674470#557.000000@
+receivePositionMessage : 1570 0.422222 0.717608 1056.0
+sendStrikerPosition : 1571 P0.504630#0.671683#558.000000@
+receivePositionMessage : 1571 0.417593 0.672046 1057.0
+sendStrikerPosition : 1572 P0.504630#0.670569#559.000000@
+receivePositionMessage : 1572 0.425 0.640247 1058.0
+sendStrikerPosition : 1573 P0.504630#0.670011#560.000000@
+receivePositionMessage : 1573 0.425 0.640247 1059.0
+sendStrikerPosition : 1574 P0.504630#0.669454#561.000000@
+receivePositionMessage : 1574 0.45463 0.587091 1060.0
+sendStrikerPosition : 1575 P0.504630#0.668896#562.000000@
+receivePositionMessage : 1575 0.45463 0.578073 1061.0
+sendStrikerPosition : 1577 P0.504630#0.668896#563.000000@
+sendStrikerPosition : 1578 P0.510185#0.685619#564.000000@
+receivePositionMessage : 1578 0.473148 0.579972 1064.0
+receivePositionMessage : 1578 0.473148 0.579972 1064.0
+receivePositionMessage : 1578 0.473148 0.579972 1064.0
+sendStrikerPosition : 1579 P0.513889#0.702899#565.000000@
+receivePositionMessage : 1579 0.482407 0.580921 1065.0
+sendStrikerPosition : 1580 P0.516667#0.719064#566.000000@
+receivePositionMessage : 1581 0.502778 0.581395 1067.0
+receivePositionMessage : 1581 0.502778 0.581395 1067.0
+sendStrikerPosition : 1582 P0.516667#0.734114#567.000000@
+sendStrikerPosition : 1583 P0.516667#0.735786#568.000000@
+receivePositionMessage : 1583 0.519444 0.580921 1071.0
+receivePositionMessage : 1583 0.499074 0.500237 -0.00463
+receiveBallCollisionMessage : 1583 0.499074 0.500237 -0.00463 0.008068 1072.0
+sendBallCollisionAck : 1583 R569.0@
+receiveBallCollisionMessage : 1583 0.499074 0.500237 -0.00463 0.008068 1072.0
+sendBallCollisionAck : 1583 R570.0@
+sendStrikerPosition : 1584 P0.516667#0.737458#571.000000@
+receiveBallCollisionMessage : 1584 0.499074 0.500237 -0.00463 0.008068 1072.0
+sendBallCollisionAck : 1584 R572.0@
+sendStrikerPosition : 1585 P0.516667#0.738573#573.000000@
+receiveBallCollisionMessage : 1585 0.499074 0.500237 -0.00463 0.008068 1074.0
+sendBallCollisionAck : 1585 R574.0@
+receiveBallCollisionMessage : 1585 0.499074 0.500237 -0.00463 0.008068 1074.0
+sendBallCollisionAck : 1585 R575.0@
+sendStrikerPosition : 1586 P0.515741#0.739688#576.000000@
+receivePositionMessage : 1586 0.548148 0.577598 1075.0
+sendStrikerPosition : 1587 P0.513889#0.740803#577.000000@
+receiveBallCollisionMessage : 1587 0.499074 0.500237 -0.012037 0.0 1076.0
+sendBallCollisionAck : 1587 R578.0@
+sendStrikerPosition : 1588 P0.514815#0.741360#579.000000@
+sendStrikerPosition : 1590 P0.512963#0.741918#580.000000@
+sendStrikerPosition : 1591 P0.512963#0.742475#581.000000@
+sendStrikerPosition : 1592 P0.512963#0.743032#582.000000@
+sendStrikerPosition : 1593 P0.512963#0.743590#583.000000@
+sendStrikerPosition : 1594 P0.512963#0.744147#584.000000@
+sendStrikerPosition : 1595 P0.512963#0.745262#585.000000@
+sendStrikerPosition : 1596 P0.512963#0.746377#586.000000@
+sendStrikerPosition : 1597 P0.512963#0.747492#587.000000@
+sendStrikerPosition : 1598 P0.512963#0.749721#588.000000@
+sendStrikerPosition : 1599 P0.512963#0.750836#589.000000@
+sendStrikerPosition : 1600 P0.512963#0.751951#590.000000@
+sendStrikerPosition : 1601 P0.512963#0.754181#591.000000@
+sendStrikerPosition : 1602 P0.513889#0.757525#592.000000@
+sendStrikerPosition : 1603 P0.516667#0.763657#593.000000@
+sendStrikerPosition : 1604 P0.517593#0.770346#594.000000@
+sendStrikerPosition : 1605 P0.519444#0.777592#595.000000@
+sendStrikerPosition : 1606 P0.521296#0.782051#596.000000@
+sendStrikerPosition : 1607 P0.523148#0.788183#597.000000@
+sendStrikerPosition : 1608 P0.523148#0.790412#598.000000@
+sendStrikerPosition : 1609 P0.524074#0.791527#599.000000@
+sendStrikerPosition : 1610 P0.524074#0.793200#600.000000@
+sendStrikerPosition : 1611 P0.525000#0.794314#601.000000@
+sendStrikerPosition : 1613 P0.525000#0.795429#602.000000@
+sendStrikerPosition : 1614 P0.525000#0.793200#603.000000@
+sendStrikerPosition : 1615 P0.525000#0.781494#604.000000@
+sendStrikerPosition : 1616 P0.521296#0.763657#605.000000@
+sendStrikerPosition : 1617 P0.518519#0.744705#606.000000@
+sendStrikerPosition : 1618 P0.512963#0.719064#607.000000@
+sendStrikerPosition : 1619 P0.511111#0.691750#608.000000@
+sendStrikerPosition : 1620 P0.512037#0.656633#609.000000@
+sendStrikerPosition : 1621 P0.515741#0.614270#610.000000@
+sendBallCollision : 1621 C0.507407#0.499443#-0.061111#-0.834448#611.000000@
+sendStrikerPosition : 1622 P0.516667#0.595318#612.000000@
+receiveCollisionAckMessage : 1623 1077.0
+sendStrikerPosition : 1623 P0.506481#0.595318#613.000000@
+sendBallCollision : 1623 C0.506481#0.485507#-0.183333#-0.363991#614.000000@
+receivePositionMessage : 1625 0.558333 0.589464 1078.0
+receiveCollisionAckMessage : 1627 1081.0
+receiveBallCollisionMessage : 1627 0.493519 0.514476 0.182407 0.36355 1083.0
+sendBallCollisionAck : 1627 R615.0@
+receiveBallCollisionMessage : 1627 0.551852 0.590888 1084.0 0.493519 0.514476
+sendBallCollisionAck : 1627 R616.0@
+receivePositionMessage : 1628 0.543519 0.592311 1086.0
+receivePositionMessage : 1628 0.543519 0.592311 1086.0
+receivePositionMessage : 1628 0.543519 0.592311 1086.0
+receivePositionMessage : 1628 0.543519 0.592311 1086.0
+receivePositionMessage : 1630 0.526852 0.603227 1088.0
+receivePositionMessage : 1630 0.526852 0.603227 1088.0
+receivePositionMessage : 1634 0.49537 0.639772 1092.0
+receivePositionMessage : 1634 0.49537 0.639772 1092.0
+receivePositionMessage : 1634 0.49537 0.639772 1092.0
+receivePositionMessage : 1634 0.49537 0.639772 1092.0
+receivePositionMessage : 1636 0.483333 0.652112 1094.0
+receivePositionMessage : 1636 0.483333 0.652112 1094.0
+receivePositionMessage : 1640 0.467593 0.658282 1096.0
+receivePositionMessage : 1640 0.467593 0.658282 1096.0
+receivePositionMessage : 1642 0.452778 0.659231 1098.0
+receivePositionMessage : 1642 0.452778 0.659231 1098.0
+receiveBallCollisionMessage : 1644 0.534259 0.595159 0.448148 0.26056 1102.0
+sendBallCollisionAck : 1644 R617.0@
+receiveBallCollisionMessage : 1644 0.534259 0.595159 0.448148 0.26056 1102.0
+sendBallCollisionAck : 1644 R618.0@
+receiveBallCollisionMessage : 1644 0.534259 0.595159 0.448148 0.26056 1102.0
+sendBallCollisionAck : 1644 R619.0@
+receiveBallCollisionMessage : 1644 0.534259 0.595159 0.448148 0.26056 1102.0
+sendBallCollisionAck : 1644 R620.0@
+receivePositionMessage : 1645 0.44537 0.662553 1103.0
+receiveBallCollisionMessage : 1648 0.55 0.603702 0.558333 0.301851 1106.0
+sendBallCollisionAck : 1648 R621.0@
+receiveBallCollisionMessage : 1648 0.55 0.603702 0.558333 0.301851 1106.0
+sendBallCollisionAck : 1648 R622.0@
+receiveBallCollisionMessage : 1648 0.55 0.603702 0.558333 0.301851 1106.0
+sendBallCollisionAck : 1648 R623.0@
+receiveBallCollisionMessage : 1651 0.55 0.603702 0.558333 0.301851 1110.0
+sendBallCollisionAck : 1651 R624.0@
+receiveBallCollisionMessage : 1651 0.55 0.603702 0.558333 0.301851 1110.0
+sendBallCollisionAck : 1651 R625.0@
+receiveBallCollisionMessage : 1651 0.55 0.603702 0.558333 0.301851 1110.0
+sendBallCollisionAck : 1651 R626.0@
+receiveBallCollisionMessage : 1651 0.55 0.603702 0.558333 0.301851 1110.0
+sendBallCollisionAck : 1651 R627.0@
+receivePositionMessage : 1652 0.441667 0.663977 1111.0
+receiveBallCollisionMessage : 1654 0.568519 0.614143 0.652778 0.370195 1114.0
+sendBallCollisionAck : 1654 R628.0@
+receiveBallCollisionMessage : 1654 0.568519 0.614143 0.652778 0.370195 1114.0
+sendBallCollisionAck : 1654 R629.0@
+receiveBallCollisionMessage : 1654 0.568519 0.614143 0.652778 0.370195 1114.0
+sendBallCollisionAck : 1654 R630.0@
+receivePositionMessage : 1655 0.45 0.668723 1115.0
+receivePositionMessage : 1658 0.510185 0.693878 1118.0
+receivePositionMessage : 1658 0.510185 0.693878 1118.0
+receivePositionMessage : 1658 0.510185 0.693878 1118.0
+receivePositionMessage : 1660 0.564815 0.722829 1120.0
+receivePositionMessage : 1660 0.564815 0.722829 1120.0
+sendStrikerPosition : 1664 P0.484259#0.596433#631.000000@
+receivePositionMessage : 1664 0.608333 0.780256 1124.0
+sendStrikerPosition : 1665 P0.484259#0.596433#632.000000@
+receivePositionMessage : 1665 0.611111 0.803037 1125.0
+receivePositionMessage : 1665 0.611111 0.803037 1125.0
+receivePositionMessage : 1665 0.611111 0.803037 1125.0
+sendStrikerPosition : 1666 P0.480556#0.609253#633.000000@
+receivePositionMessage : 1666 0.611111 0.824395 1126.0
+receivePositionMessage : 1666 0.599074 0.869008 1127.0
+sendStrikerPosition : 1667 P0.475000#0.619844#634.000000@
+receivePositionMessage : 1668 0.592593 0.886094 1128.0
+receivePositionMessage : 1669 0.592593 0.886094 1128.0
+sendStrikerPosition : 1670 P0.455556#0.654961#635.000000@
+receivePositionMessage : 1670 0.581481 0.901281 1132.0
+receivePositionMessage : 1670 0.581481 0.901281 1132.0
+receivePositionMessage : 1670 0.581481 0.901281 1132.0
+receivePositionMessage : 1670 0.581481 0.901281 1132.0
+sendStrikerPosition : 1671 P0.453704#0.658863#636.000000@
+sendStrikerPosition : 1672 P0.450926#0.662207#637.000000@
+receivePositionMessage : 1672 0.580556 0.901281 1133.0
+sendStrikerPosition : 1673 P0.450000#0.664437#638.000000@
+sendStrikerPosition : 1675 P0.443519#0.676143#639.000000@
+receivePositionMessage : 1675 0.580556 0.901281 1135.0
+receivePositionMessage : 1675 0.580556 0.901281 1135.0
+receivePositionMessage : 1680 0.581481 0.899858 1136.0
+receivePositionMessage : 1683 0.776852 0.750356 1138.0
+receivePositionMessage : 1683 0.776852 0.750356 1138.0
+receivePositionMessage : 1685 0.9 0.627907 1140.0
+receivePositionMessage : 1685 0.9 0.627907 1140.0
+receivePositionMessage : 1687 0.9 0.596108 1142.0
+receivePositionMessage : 1687 0.9 0.596108 1142.0
+receiveBallCollisionMessage : 1689 0.917593 0.814428 -0.674074 0.407689 1144.0
+sendBallCollisionAck : 1689 R640.0@
+receiveBallCollisionMessage : 1689 0.917593 0.814428 -0.674074 0.407689 1144.0
+sendBallCollisionAck : 1689 R641.0@
+receivePositionMessage : 1690 0.9 0.590413 1146.0
+receivePositionMessage : 1690 0.9 0.590413 1146.0
+receivePositionMessage : 1692 0.9 0.592786 1148.0
+receivePositionMessage : 1693 0.9 0.592786 1148.0
+receivePositionMessage : 1695 0.9 0.59421 1150.0
+receivePositionMessage : 1695 0.9 0.59421 1150.0
+receivePositionMessage : 1698 0.9 0.595159 1152.0
+receivePositionMessage : 1698 0.9 0.595159 1152.0
+receivePositionMessage : 1701 0.9 0.595159 1153.0
+receivePositionMessage : 1703 0.9 0.595159 1156.0
+receivePositionMessage : 1703 0.9 0.595159 1156.0
+receivePositionMessage : 1703 0.9 0.595159 1156.0
+receivePositionMessage : 1704 0.9 0.595634 1157.0
+receiveGoalScoredMessage : 1713 4.0 1158.0
+sendGoalScoredAck : 1714 F4.0#642.0@
+sendStrikerPosition : 1765 P0.477778#0.853400#643.000000@
+sendStrikerPosition : 1766 P0.460185#0.826644#644.000000@
+sendStrikerPosition : 1767 P0.437963#0.799331#645.000000@
+sendStrikerPosition : 1768 P0.423148#0.777035#646.000000@
+sendStrikerPosition : 1769 P0.416667#0.758640#647.000000@
+sendStrikerPosition : 1770 P0.414815#0.751951#648.000000@
+sendStrikerPosition : 1771 P0.412963#0.746934#649.000000@
+sendStrikerPosition : 1772 P0.412037#0.743590#650.000000@
+sendStrikerPosition : 1773 P0.411111#0.742475#651.000000@
+sendStrikerPosition : 1774 P0.411111#0.740803#652.000000@
+sendStrikerPosition : 1775 P0.411111#0.739688#653.000000@
+sendStrikerPosition : 1776 P0.409259#0.738573#654.000000@
+sendStrikerPosition : 1777 P0.410185#0.738016#655.000000@
+sendStrikerPosition : 1778 P0.410185#0.737458#656.000000@
+sendStrikerPosition : 1779 P0.410185#0.736343#657.000000@
+receivePositionMessage : 1779 0.5 0.897485 1159.0
+receivePositionMessage : 1780 0.5 0.897485 1160.0
+sendStrikerPosition : 1781 P0.410185#0.736343#658.000000@
+receivePositionMessage : 1781 0.5 0.897485 1161.0
+sendStrikerPosition : 1783 P0.410185#0.736343#659.000000@
+sendStrikerPosition : 1784 P0.411111#0.736343#660.000000@
+receivePositionMessage : 1784 0.483333 0.850973 1162.0
+sendStrikerPosition : 1785 P0.412037#0.736901#661.000000@
+receivePositionMessage : 1785 0.502778 0.727575 1164.0
+receivePositionMessage : 1785 0.502778 0.727575 1165.0
+sendStrikerPosition : 1787 P0.412037#0.737458#662.000000@
+receiveBallCollisionMessage : 1787 0.499074 0.499288 -1.42037 -2.460845 1167.0
+sendBallCollisionAck : 1787 R663.0@
+receiveBallCollisionMessage : 1787 0.499074 0.499288 -1.42037 -2.460845 1167.0
+sendBallCollisionAck : 1787 R664.0@
+sendStrikerPosition : 1788 P0.413889#0.738573#665.000000@
+receivePositionMessage : 1788 0.597222 0.563835 1170.0
+receivePositionMessage : 1788 0.597222 0.563835 1170.0
+receivePositionMessage : 1788 0.597222 0.563835 1170.0
+receiveBallCollisionMessage : 1789 0.499074 0.499288 -1.42037 -2.460845 1171.0
+sendBallCollisionAck : 1789 R666.0@
+sendStrikerPosition : 1790 P0.414815#0.738573#667.000000@
+sendStrikerPosition : 1791 P0.417593#0.735786#668.000000@
+sendStrikerPosition : 1792 P0.440741#0.692308#669.000000@
+sendStrikerPosition : 1793 P0.414815#0.632664#670.000000@
+sendBallCollision : 1793 C0.574074#0.626533#-0.853704#3.057971#671.000000@
+sendStrikerPosition : 1794 P0.468519#0.554627#672.000000@
+sendStrikerPosition : 1795 P0.450926#0.560201#673.000000@
+receiveCollisionAckMessage : 1795 1173.0
+receiveCollisionAckMessage : 1795 1173.0
+sendGoalScored : 1801 G1.0#674.0@
+receiveGoalScoredAckMessage : 1805 1.0 1174.0
+sendStrikerPosition : 1862 P0.475926#0.855072#675.000000@
+sendStrikerPosition : 1863 P0.462037#0.819955#676.000000@
+sendStrikerPosition : 1864 P0.445370#0.782609#677.000000@
+sendStrikerPosition : 1865 P0.423148#0.744147#678.000000@
+sendStrikerPosition : 1866 P0.408333#0.711260#679.000000@
+sendStrikerPosition : 1867 P0.390741#0.680602#680.000000@
+sendStrikerPosition : 1868 P0.379630#0.658863#681.000000@
+sendStrikerPosition : 1869 P0.372222#0.647715#682.000000@
+receivePositionMessage : 1870 0.5 0.897485 1176.0
+sendStrikerPosition : 1870 P0.369444#0.641583#683.000000@
+receivePositionMessage : 1870 0.5 0.897485 1176.0
+sendStrikerPosition : 1871 P0.368519#0.639353#684.000000@
+receivePositionMessage : 1871 0.5 0.897485 1177.0
+sendStrikerPosition : 1872 P0.368519#0.637681#685.000000@
+receivePositionMessage : 1872 0.483333 0.856194 1178.0
+sendStrikerPosition : 1873 P0.366667#0.636566#686.000000@
+receivePositionMessage : 1873 0.467593 0.814903 1179.0
+sendStrikerPosition : 1874 P0.367593#0.636009#687.000000@
+sendStrikerPosition : 1875 P0.367593#0.635452#688.000000@
+receivePositionMessage : 1875 0.466667 0.758899 1180.0
+receivePositionMessage : 1876 0.458333 0.685809 1181.0
+sendStrikerPosition : 1877 P0.367593#0.635452#689.000000@
+sendStrikerPosition : 1878 P0.374074#0.649387#690.000000@
+receiveBallCollisionMessage : 1878 0.5 0.499288 0.255556 -1.223066 1184.0
+sendBallCollisionAck : 1878 R691.0@
+receiveBallCollisionMessage : 1878 0.5 0.499288 0.255556 -1.223066 1184.0
+sendBallCollisionAck : 1878 R692.0@
+sendStrikerPosition : 1879 P0.387963#0.672241#693.000000@
+receiveBallCollisionMessage : 1879 0.499074 0.499288 0.255556 -1.223066 1186.0
+sendBallCollisionAck : 1879 R694.0@
+receiveBallCollisionMessage : 1879 0.499074 0.499288 0.255556 -1.223066 1186.0
+sendBallCollisionAck : 1879 R695.0@
+sendStrikerPosition : 1880 P0.397222#0.691193#696.000000@
+receiveBallCollisionMessage : 1880 0.499074 0.499288 0.255556 -1.223066 1188.0
+sendBallCollisionAck : 1880 R697.0@
+receiveBallCollisionMessage : 1880 0.499074 0.499288 0.255556 -1.223066 1188.0
+sendBallCollisionAck : 1880 R698.0@
+sendStrikerPosition : 1881 P0.408333#0.711817#699.000000@
+sendStrikerPosition : 1882 P0.412963#0.722965#700.000000@
+sendStrikerPosition : 1884 P0.417593#0.731327#701.000000@
+sendStrikerPosition : 1885 P0.420370#0.736901#702.000000@
+sendStrikerPosition : 1886 P0.421296#0.738016#703.000000@
+sendStrikerPosition : 1887 P0.427778#0.732999#704.000000@
+sendBallCollision : 1887 C0.475000#0.625418#0.581481#-0.999443#705.000000@
+sendStrikerPosition : 1888 P0.441667#0.719064#706.000000@
+sendBallCollision : 1888 C0.475000#0.625418#0.581481#-0.999443#707.000000@
+receiveCollisionAckMessage : 1889 1190.0
+receiveCollisionAckMessage : 1889 1190.0
+sendStrikerPosition : 1890 P0.400000#0.710145#708.000000@
+sendBallCollision : 1891 C0.495370#0.591416#1.584259#-0.413043#709.000000@
+receiveCollisionAckMessage : 1892 1192.0
+receiveCollisionAckMessage : 1892 1192.0
+receiveCollisionAckMessage : 1893 1193.0
+receivePositionMessage : 1931 0.543519 0.578073 1195.0
+receivePositionMessage : 1931 0.543519 0.578073 1195.0
+receiveBallCollisionMessage : 1934 0.511111 0.675368 1.432407 0.704319 1197.0
+sendBallCollisionAck : 1934 R710.0@
+receivePositionMessage : 1934 0.544444 0.595159 1198.0
+receivePositionMessage : 1935 0.544444 0.595159 1198.0
+receivePositionMessage : 1942 0.590741 0.604651 1199.0
+receivePositionMessage : 1943 0.698148 0.840057 1205.0
+receivePositionMessage : 1943 0.698148 0.840057 1205.0
+receivePositionMessage : 1943 0.698148 0.840057 1205.0
+receivePositionMessage : 1943 0.712963 0.851448 1206.0
+receivePositionMessage : 1943 0.712963 0.851448 1206.0
+receivePositionMessage : 1943 0.712963 0.851448 1206.0
+receivePositionMessage : 1944 0.726852 0.859991 1207.0
+receivePositionMessage : 1944 0.726852 0.859991 1207.0
+receiveBallCollisionMessage : 1946 0.781481 0.875178 -5.52037 1.619364 1210.0
+sendBallCollisionAck : 1946 R711.0@
+receiveBallCollisionMessage : 1946 0.781481 0.875178 -5.52037 1.619364 1210.0
+sendBallCollisionAck : 1946 R712.0@
+receiveBallCollisionMessage : 1946 0.781481 0.875178 -5.52037 1.619364 1210.0
+sendBallCollisionAck : 1946 R713.0@
+receiveBallCollisionMessage : 1947 0.781481 0.875178 -5.52037 1.619364 1212.0
+sendBallCollisionAck : 1947 R714.0@
+receiveBallCollisionMessage : 1947 0.781481 0.875178 -5.52037 1.619364 1212.0
+sendBallCollisionAck : 1947 R715.0@
+receivePositionMessage : 1950 0.809259 0.955387 1214.0
+receivePositionMessage : 1951 0.809259 0.955387 1214.0
+receivePositionMessage : 1953 0.801852 0.907451 1216.0
+receivePositionMessage : 1953 0.801852 0.907451 1216.0
+receiveGoalScoredMessage : 1955 5.0 1218.0
+sendGoalScoredAck : 1956 F5.0#716.0@
+receiveGoalScoredMessage : 1957 5.0 1218.0
+sendGoalScoredAck : 1958 F5.0#717.0@
+sendStrikerPosition : 2012 P0.500000#0.879599#718.000000@
+sendStrikerPosition : 2014 P0.470370#0.806020#719.000000@
+sendStrikerPosition : 2015 P0.453704#0.770903#720.000000@
+sendStrikerPosition : 2016 P0.443519#0.738016#721.000000@
+sendStrikerPosition : 2017 P0.437963#0.712375#722.000000@
+sendStrikerPosition : 2019 P0.437963#0.687291#723.000000@
+receivePositionMessage : 2019 0.498148 0.895112 1220.0
+receivePositionMessage : 2019 0.498148 0.895112 1220.0
+sendStrikerPosition : 2020 P0.437963#0.682832#724.000000@
+sendStrikerPosition : 2021 P0.437963#0.680602#725.000000@
+receivePositionMessage : 2021 0.489815 0.851922 1221.0
+sendStrikerPosition : 2022 P0.438889#0.679487#726.000000@
+receivePositionMessage : 2022 0.490741 0.779307 1222.0
+sendStrikerPosition : 2023 P0.462037#0.677815#727.000000@
+receivePositionMessage : 2023 0.47963 0.687233 1223.0
+receivePositionMessage : 2024 0.493519 0.580921 1225.0
+receiveBallCollisionMessage : 2024 0.5 0.499288 0.0 0.0 1226.0
+sendBallCollisionAck : 2024 R728.0@
+receiveBallCollisionMessage : 2024 0.5 0.499288 0.0 0.0 1226.0
+sendBallCollisionAck : 2024 R729.0@
+sendStrikerPosition : 2025 P0.534259#0.686176#730.000000@
+sendStrikerPosition : 2026 P0.563889#0.693980#731.000000@
+receivePositionMessage : 2026 0.493519 0.580921 1227.0
+sendStrikerPosition : 2027 P0.587963#0.700111#732.000000@
+sendStrikerPosition : 2028 P0.616667#0.706800#733.000000@
+sendStrikerPosition : 2029 P0.638889#0.709030#734.000000@
+sendStrikerPosition : 2030 P0.653704#0.710145#735.000000@
+sendStrikerPosition : 2031 P0.687037#0.710145#736.000000@
+sendStrikerPosition : 2032 P0.698148#0.706800#737.000000@
+sendStrikerPosition : 2033 P0.710185#0.704013#738.000000@
+sendStrikerPosition : 2034 P0.717593#0.702341#739.000000@
+sendStrikerPosition : 2035 P0.721296#0.701226#740.000000@
+sendStrikerPosition : 2036 P0.724074#0.700111#741.000000@
+sendStrikerPosition : 2037 P0.725926#0.698439#742.000000@
+sendStrikerPosition : 2038 P0.727778#0.696767#743.000000@
+sendStrikerPosition : 2039 P0.730556#0.691750#744.000000@
+sendStrikerPosition : 2040 P0.731481#0.686734#745.000000@
+sendStrikerPosition : 2041 P0.732407#0.681717#746.000000@
+sendStrikerPosition : 2042 P0.729630#0.676143#747.000000@
+sendStrikerPosition : 2043 P0.729630#0.676143#748.000000@
+sendStrikerPosition : 2044 P0.725000#0.670011#749.000000@
+sendStrikerPosition : 2045 P0.721296#0.664994#750.000000@
+sendStrikerPosition : 2046 P0.718519#0.663880#751.000000@
+sendStrikerPosition : 2047 P0.717593#0.662765#752.000000@
+sendStrikerPosition : 2048 P0.715741#0.661650#753.000000@
+sendStrikerPosition : 2049 P0.713889#0.660535#754.000000@
+sendStrikerPosition : 2050 P0.712963#0.659978#755.000000@
+sendStrikerPosition : 2051 P0.712963#0.658863#756.000000@
+sendStrikerPosition : 2052 P0.710185#0.658305#757.000000@
+sendStrikerPosition : 2053 P0.709259#0.657748#758.000000@
+sendStrikerPosition : 2054 P0.704630#0.654961#759.000000@
+sendStrikerPosition : 2055 P0.676852#0.637681#760.000000@
+sendStrikerPosition : 2056 P0.637037#0.610368#761.000000@
+sendBallCollision : 2056 C0.499074#0.500557#-1.814815#-1.466555#762.000000@
+sendStrikerPosition : 2057 P0.594444#0.577480#763.000000@
+sendBallCollision : 2057 C0.499074#0.500557#-1.814815#-1.466555#764.000000@
+receiveCollisionAckMessage : 2057 1229.0
+receiveCollisionAckMessage : 2057 1229.0
+sendStrikerPosition : 2058 P0.562037#0.589186#765.000000@
+receiveCollisionAckMessage : 2060 1231.0
+receiveCollisionAckMessage : 2060 1231.0
+receiveBallCollisionMessage : 2064 0.562963 0.549597 3.192593 1.124347 1232.0
+sendBallCollisionAck : 2064 R766.0@
+receiveBallCollisionMessage : 2066 0.725926 0.60655 3.192593 1.124347 1233.0
+sendBallCollisionAck : 2066 R767.0@
+receivePositionMessage : 2069 0.462037 0.61272 1235.0
+receivePositionMessage : 2070 0.462037 0.61272 1235.0
+receivePositionMessage : 2072 0.462963 0.613194 1237.0
+receivePositionMessage : 2072 0.462963 0.613194 1237.0
+receivePositionMessage : 2074 0.463889 0.628382 1239.0
+receivePositionMessage : 2074 0.463889 0.628382 1239.0
+receivePositionMessage : 2076 0.463889 0.658282 1241.0
+receivePositionMessage : 2076 0.463889 0.658282 1241.0
+receivePositionMessage : 2078 0.463889 0.683911 1243.0
+receivePositionMessage : 2079 0.463889 0.683911 1243.0
+receivePositionMessage : 2081 0.466667 0.705743 1245.0
+receivePositionMessage : 2081 0.466667 0.705743 1245.0
+receivePositionMessage : 2083 0.47037 0.715235 1246.0
+receivePositionMessage : 2087 0.485185 0.743711 1249.0
+receivePositionMessage : 2087 0.485185 0.743711 1249.0
+receivePositionMessage : 2088 0.485185 0.743711 1249.0
+receivePositionMessage : 2088 0.487963 0.747983 1251.0
+receivePositionMessage : 2089 0.487963 0.747983 1251.0
+receivePositionMessage : 2091 0.492593 0.75178 1252.0
+receiveGoalScoredMessage : 2092 6.0 1253.0
+sendGoalScoredAck : 2093 F6.0#768.0@
+sendStrikerPosition : 2144 P0.488889#0.866778#769.000000@
+sendStrikerPosition : 2145 P0.459259#0.833333#770.000000@
+sendStrikerPosition : 2146 P0.429630#0.797659#771.000000@
+receivePositionMessage : 2146 0.5 0.897485 1254.0
+sendStrikerPosition : 2147 P0.403704#0.762542#772.000000@
+receivePositionMessage : 2147 0.5 0.897485 1255.0
+sendStrikerPosition : 2148 P0.380556#0.731327#773.000000@
+receivePositionMessage : 2148 0.5 0.897485 1256.0
+sendStrikerPosition : 2149 P0.359259#0.704013#774.000000@
+receivePositionMessage : 2149 0.499074 0.891315 1257.0
+sendStrikerPosition : 2150 P0.342593#0.684504#775.000000@
+receivePositionMessage : 2150 0.496296 0.868533 1258.0
+sendStrikerPosition : 2151 P0.333333#0.671683#776.000000@
+receivePositionMessage : 2151 0.500926 0.816327 1259.0
+sendStrikerPosition : 2152 P0.327778#0.664994#777.000000@
+receivePositionMessage : 2152 0.508333 0.745135 1260.0
+sendStrikerPosition : 2153 P0.326852#0.662765#778.000000@
+receivePositionMessage : 2154 0.508333 0.673469 1261.0
+sendStrikerPosition : 2154 P0.325926#0.661650#779.000000@
+receivePositionMessage : 2154 0.512037 0.626483 1262.0
+sendStrikerPosition : 2155 P0.325000#0.659978#780.000000@
+receivePositionMessage : 2156 0.514815 0.580921 1263.0
+sendStrikerPosition : 2156 P0.325000#0.659978#781.000000@
+receivePositionMessage : 2156 0.523148 0.580446 1264.0
+sendStrikerPosition : 2157 P0.325000#0.658305#782.000000@
+receiveBallCollisionMessage : 2157 0.499074 0.499288 0.0 0.002373 1266.0
+sendBallCollisionAck : 2157 R783.0@
+receiveBallCollisionMessage : 2157 0.499074 0.499288 0.0 0.002373 1266.0
+sendBallCollisionAck : 2157 R784.0@
+sendStrikerPosition : 2158 P0.325000#0.657191#785.000000@
+receivePositionMessage : 2158 0.541667 0.578073 1267.0
+sendStrikerPosition : 2159 P0.325000#0.656633#786.000000@
+receiveBallCollisionMessage : 2159 0.5 0.499763 0.0 -4.75E-4 1268.0
+sendBallCollisionAck : 2159 R787.0@
+sendStrikerPosition : 2160 P0.325000#0.656076#788.000000@
+sendStrikerPosition : 2161 P0.325926#0.656076#789.000000@
+sendStrikerPosition : 2162 P0.330556#0.653289#790.000000@
+sendStrikerPosition : 2163 P0.363889#0.628205#791.000000@
+sendStrikerPosition : 2164 P0.417593#0.584169#792.000000@
+sendStrikerPosition : 2165 P0.452778#0.591973#793.000000@
+receiveBallCollisionMessage : 2169 0.499074 0.499288 0.0 -4.75E-4 1269.0
+sendBallCollisionAck : 2169 R794.0@
+sendBallCollision : 2170 C0.501852#0.500557#0.000000#0.000000#795.000000@
+receiveCollisionAckMessage : 2172 1270.0
+receivePositionMessage : 2197 0.541667 0.578548 1272.0
+receivePositionMessage : 2197 0.541667 0.578548 1272.0
+receivePositionMessage : 2199 0.534259 0.579972 1274.0
+receivePositionMessage : 2199 0.534259 0.579972 1274.0
+sendStrikerPosition : 2201 P0.454630#0.628205#796.000000@
+receivePositionMessage : 2201 0.525926 0.580921 1276.0
+receivePositionMessage : 2201 0.525926 0.580921 1276.0
+sendStrikerPosition : 2202 P0.456481#0.654404#797.000000@
+receivePositionMessage : 2202 0.519444 0.58187 1277.0
+sendStrikerPosition : 2203 P0.457407#0.673913#798.000000@
+receivePositionMessage : 2203 0.511111 0.58187 1278.0
+sendStrikerPosition : 2204 P0.462037#0.695095#799.000000@
+receiveBallCollisionMessage : 2204 0.497222 0.499288 -0.001852 -0.031324 1280.0
+sendBallCollisionAck : 2204 R800.0@
+sendStrikerPosition : 2205 P0.464815#0.710145#801.000000@
+receiveBallCollisionMessage : 2205 0.498148 0.499288 -0.001852 -0.031324 1282.0
+sendBallCollisionAck : 2205 R802.0@
+receiveBallCollisionMessage : 2205 0.498148 0.499288 -0.001852 -0.031324 1282.0
+sendBallCollisionAck : 2205 R803.0@
+receiveBallCollisionMessage : 2206 0.498148 0.499288 -0.001852 -0.031324 1282.0
+sendStrikerPosition : 2206 P0.469444#0.727982#804.000000@
+sendBallCollisionAck : 2206 R805.0@
+sendStrikerPosition : 2207 P0.475000#0.740803#806.000000@
+sendStrikerPosition : 2208 P0.478704#0.750836#807.000000@
+receiveBallCollisionMessage : 2208 0.497222 0.498813 -0.006481 -0.013289 1285.0
+sendBallCollisionAck : 2208 R808.0@
+receiveBallCollisionMessage : 2209 0.497222 0.498813 -0.006481 -0.013289 1285.0
+sendBallCollisionAck : 2209 R810.0@
+sendStrikerPosition : 2209 P0.478704#0.750836#809.000000@
+receiveBallCollisionMessage : 2209 0.497222 0.498813 -0.006481 -0.013289 1285.0
+sendBallCollisionAck : 2209 R811.0@
+receiveBallCollisionMessage : 2209 0.497222 0.498813 -0.006481 -0.013289 1287.0
+sendBallCollisionAck : 2209 R812.0@
+sendStrikerPosition : 2210 P0.480556#0.755295#813.000000@
+receiveBallCollisionMessage : 2210 0.497222 0.498813 -0.006481 -0.013289 1287.0
+sendBallCollisionAck : 2210 R814.0@
+receiveBallCollisionMessage : 2210 0.497222 0.498813 -0.006481 -0.013289 1289.0
+sendBallCollisionAck : 2210 R815.0@
+receiveBallCollisionMessage : 2210 0.497222 0.498813 -0.006481 -0.013289 1289.0
+sendBallCollisionAck : 2210 R816.0@
+sendStrikerPosition : 2211 P0.481481#0.756410#817.000000@
+receiveBallCollisionMessage : 2211 0.497222 0.498813 -0.006481 -0.013289 1290.0
+sendBallCollisionAck : 2211 R818.0@
+receivePositionMessage : 2211 0.477778 0.579972 1291.0
+sendStrikerPosition : 2212 P0.481481#0.757525#819.000000@
+receivePositionMessage : 2212 0.475926 0.579972 1292.0
+sendStrikerPosition : 2213 P0.500000#0.721851#820.000000@
+sendStrikerPosition : 2214 P0.500000#0.721851#821.000000@
+receiveBallCollisionMessage : 2214 0.497222 0.498339 -0.011111 -0.00617 1294.0
+sendBallCollisionAck : 2214 R822.0@
+receiveBallCollisionMessage : 2214 0.497222 0.498339 -0.011111 -0.00617 1294.0
+sendBallCollisionAck : 2214 R823.0@
+sendStrikerPosition : 2215 P0.508333#0.679487#824.000000@
+receiveBallCollisionMessage : 2215 0.497222 0.498339 -0.011111 -0.00617 1296.0
+sendBallCollisionAck : 2215 R825.0@
+receiveBallCollisionMessage : 2215 0.497222 0.498339 -0.011111 -0.00617 1296.0
+sendBallCollisionAck : 2215 R826.0@
+sendStrikerPosition : 2216 P0.510185#0.619287#827.000000@
+sendStrikerPosition : 2217 P0.497222#0.596990#828.000000@
+receiveBallCollisionMessage : 2217 0.497222 0.498339 -0.011111 -0.00617 1298.0
+sendBallCollisionAck : 2217 R829.0@
+receiveBallCollisionMessage : 2217 0.497222 0.498339 -0.011111 -0.00617 1298.0
+sendBallCollisionAck : 2217 R830.0@
+sendStrikerPosition : 2218 P0.479630#0.596433#831.000000@
+receivePositionMessage : 2218 0.47037 0.579022 1299.0
+sendStrikerPosition : 2219 P0.462037#0.594203#832.000000@
+receiveBallCollisionMessage : 2219 0.497222 0.498339 -0.014815 -0.003322 1301.0
+sendBallCollisionAck : 2219 R833.0@
+receiveBallCollisionMessage : 2219 0.497222 0.498339 -0.014815 -0.003322 1301.0
+sendBallCollisionAck : 2219 R834.0@
+receivePositionMessage : 2220 0.467593 0.578548 1302.0
+receiveBallCollisionMessage : 2222 0.496296 0.498339 -0.017593 -0.002373 1305.0
+sendBallCollisionAck : 2222 R835.0@
+receiveBallCollisionMessage : 2222 0.496296 0.498339 -0.017593 -0.002373 1305.0
+sendBallCollisionAck : 2222 R836.0@
+receiveBallCollisionMessage : 2222 0.496296 0.498339 -0.017593 -0.002373 1305.0
+sendBallCollisionAck : 2222 R837.0@
+receiveBallCollisionMessage : 2223 0.496296 0.498339 -0.017593 -0.002373 1307.0
+sendBallCollisionAck : 2223 R838.0@
+receiveBallCollisionMessage : 2223 0.496296 0.498339 -0.017593 -0.002373 1307.0
+sendBallCollisionAck : 2223 R839.0@
+receiveBallCollisionMessage : 2224 0.496296 0.498339 -0.017593 -0.002373 1309.0
+sendBallCollisionAck : 2224 R840.0@
+receiveBallCollisionMessage : 2224 0.496296 0.498339 -0.017593 -0.002373 1309.0
+sendBallCollisionAck : 2224 R841.0@
+receiveBallCollisionMessage : 2225 0.496296 0.498339 -0.018519 -0.002373 1311.0
+sendBallCollisionAck : 2225 R842.0@
+receiveBallCollisionMessage : 2225 0.496296 0.498339 -0.018519 -0.002373 1311.0
+sendBallCollisionAck : 2225 R843.0@
+receivePositionMessage : 2229 0.472222 0.579497 1314.0
+receivePositionMessage : 2229 0.472222 0.579497 1314.0
+receivePositionMessage : 2229 0.472222 0.579497 1314.0
+receivePositionMessage : 2231 0.478704 0.595634 1316.0
+receivePositionMessage : 2231 0.478704 0.595634 1316.0
+receivePositionMessage : 2233 0.488889 0.620313 1318.0
+receivePositionMessage : 2233 0.488889 0.620313 1318.0
+receivePositionMessage : 2235 0.493519 0.638823 1320.0
+receivePositionMessage : 2235 0.493519 0.638823 1320.0
+receivePositionMessage : 2236 0.49537 0.641196 1321.0
+receivePositionMessage : 2238 0.49537 0.642145 1322.0
+receivePositionMessage : 2239 0.49537 0.642145 1323.0
+receivePositionMessage : 2241 0.496296 0.642145 1325.0
+receivePositionMessage : 2241 0.496296 0.642145 1325.0
+sendStrikerPosition : 2249 P0.445370#0.590858#844.000000@
+receivePositionMessage : 2249 0.497222 0.640721 1328.0
+receivePositionMessage : 2250 0.499074 0.639772 1329.0
+sendStrikerPosition : 2250 P0.444444#0.624303#845.000000@
+receivePositionMessage : 2250 0.499074 0.639298 1332.0
+receivePositionMessage : 2250 0.5 0.641671 1334.0
+receivePositionMessage : 2250 0.5 0.641671 1334.0
+receivePositionMessage : 2250 0.5 0.641671 1334.0
+receivePositionMessage : 2250 0.5 0.641671 1334.0
+receivePositionMessage : 2250 0.5 0.641671 1334.0
+receivePositionMessage : 2250 0.5 0.641671 1334.0
+sendStrikerPosition : 2251 P0.447222#0.672798#846.000000@
+sendStrikerPosition : 2252 P0.450000#0.692865#847.000000@
+receivePositionMessage : 2253 0.500926 0.64262 1335.0
+sendStrikerPosition : 2253 P0.454630#0.713489#848.000000@
+receivePositionMessage : 2254 0.500926 0.64262 1336.0
+sendStrikerPosition : 2254 P0.462037#0.731327#849.000000@
+sendStrikerPosition : 2255 P0.466667#0.743590#850.000000@
+receivePositionMessage : 2255 0.500926 0.64262 1337.0
+sendStrikerPosition : 2256 P0.466667#0.743590#851.000000@
+receivePositionMessage : 2256 0.500926 0.64262 1338.0
+sendStrikerPosition : 2257 P0.470370#0.751394#852.000000@
+receivePositionMessage : 2257 0.499074 0.641671 1339.0
+receivePositionMessage : 2258 0.497222 0.631229 1340.0
+sendStrikerPosition : 2258 P0.471296#0.753623#853.000000@
+receivePositionMessage : 2258 0.492593 0.602278 1341.0
+sendStrikerPosition : 2259 P0.475000#0.755295#854.000000@
+receiveBallCollisionMessage : 2259 0.487963 0.496915 -0.022222 0.002848 1343.0
+sendBallCollisionAck : 2259 R855.0@
+receiveBallCollisionMessage : 2260 0.487963 0.496915 -0.022222 0.002848 1343.0
+sendBallCollisionAck : 2260 R857.0@
+sendStrikerPosition : 2260 P0.497222#0.721851#856.000000@
+receiveBallCollisionMessage : 2260 0.487963 0.496915 -0.022222 0.002848 1345.0
+sendBallCollisionAck : 2260 R858.0@
+receiveBallCollisionMessage : 2261 0.487963 0.496915 -0.022222 0.002848 1345.0
+sendBallCollisionAck : 2261 R860.0@
+sendStrikerPosition : 2261 P0.504630#0.666109#859.000000@
+receiveBallCollisionMessage : 2261 0.487963 0.496915 -0.022222 0.002848 1347.0
+sendBallCollisionAck : 2261 R861.0@
+receiveBallCollisionMessage : 2261 0.487963 0.496915 -0.022222 0.002848 1347.0
+sendBallCollisionAck : 2261 R862.0@
+sendStrikerPosition : 2262 P0.500000#0.605351#863.000000@
+sendStrikerPosition : 2263 P0.475000#0.596433#864.000000@
+sendBallCollision : 2263 C0.512037#0.502787#0.114815#-0.231884#865.000000@
+receiveBallCollisionMessage : 2263 0.487963 0.496915 -0.022222 0.002848 1349.0
+sendBallCollisionAck : 2263 R866.0@
+receiveBallCollisionMessage : 2263 0.487963 0.496915 -0.022222 0.002848 1349.0
+sendBallCollisionAck : 2263 R867.0@
+sendBallCollision : 2264 C0.512037#0.502787#0.020370#-0.002230#868.000000@
+receiveCollisionAckMessage : 2264 1352.0
+receiveCollisionAckMessage : 2264 1352.0
+receiveCollisionAckMessage : 2264 1352.0
+receiveBallCollisionMessage : 2267 0.488889 0.49739 -0.019444 0.001898 1361.0
+sendBallCollisionAck : 2267 R869.0@
+receiveBallCollisionMessage : 2267 0.488889 0.496915 -0.019444 0.001898 1362.0
+sendBallCollisionAck : 2267 R870.0@
+receiveBallCollisionMessage : 2267 0.488889 0.496915 -0.019444 0.001898 1362.0
+sendBallCollisionAck : 2267 R871.0@
+receiveBallCollisionMessage : 2267 0.488889 0.496915 -0.019444 0.001898 1362.0
+sendBallCollisionAck : 2267 R872.0@
+receiveBallCollisionMessage : 2267 0.488889 0.496915 -0.019444 0.001898 1362.0
+sendBallCollisionAck : 2267 R873.0@
+receiveBallCollisionMessage : 2267 0.488889 0.496915 -0.019444 0.001898 1362.0
+sendBallCollisionAck : 2267 R874.0@
+receiveBallCollisionMessage : 2267 0.488889 0.496915 -0.019444 0.001898 1362.0
+sendBallCollisionAck : 2267 R875.0@
+sendBallCollision : 2268 C0.511111#0.502787#0.019444#0.003902#876.000000@
+receivePositionMessage : 2268 0.475 0.578548 1364.0
+receivePositionMessage : 2268 0.475 0.578548 1364.0
+receivePositionMessage : 2268 0.475 0.578548 1364.0
+receivePositionMessage : 2268 0.475 0.578548 1364.0
+sendBallCollision : 2270 C0.511111#0.503344#0.024074#0.002787#877.000000@
+receivePositionMessage : 2270 0.475 0.578548 1365.0
+receivePositionMessage : 2271 0.475 0.578548 1369.0
+receivePositionMessage : 2271 0.475 0.578548 1369.0
+receivePositionMessage : 2271 0.475 0.578548 1369.0
+receivePositionMessage : 2271 0.475 0.578548 1369.0
+receivePositionMessage : 2273 0.475926 0.578548 1372.0
+receivePositionMessage : 2273 0.475926 0.578548 1372.0
+receivePositionMessage : 2273 0.475926 0.578548 1372.0
+sendBallCollision : 2274 C0.512963#0.503344#0.024074#0.002787#878.000000@
+receivePositionMessage : 2274 0.475926 0.578073 1374.0
+receivePositionMessage : 2274 0.475926 0.578073 1374.0
+receiveBallCollisionMessage : 2275 0.488889 0.49644 -0.024074 -0.020408 1375.0
+sendBallCollisionAck : 2275 R879.0@
+sendBallCollision : 2276 C0.511111#0.503344#0.036111#0.000000#880.000000@
+sendBallCollision : 2276 C0.511111#0.503344#0.036111#0.000000#881.000000@
+receivePositionMessage : 2276 0.475926 0.578073 1380.0
+receivePositionMessage : 2276 0.475926 0.578073 1380.0
+receivePositionMessage : 2276 0.475926 0.578073 1380.0
+receivePositionMessage : 2277 0.475926 0.578073 1380.0
+receivePositionMessage : 2277 0.475926 0.578073 1380.0
+receiveCollisionAckMessage : 2277 1383.0
+receiveCollisionAckMessage : 2277 1383.0
+receiveCollisionAckMessage : 2278 1383.0
+receiveBallCollisionMessage : 2278 0.489815 0.49644 -0.035185 0.0 1385.0
+sendBallCollisionAck : 2278 R882.0@
+receiveBallCollisionMessage : 2278 0.489815 0.49644 -0.035185 0.0 1385.0
+sendBallCollisionAck : 2278 R883.0@
+sendBallCollision : 2279 C0.510185#0.503344#0.037963#0.006132#884.000000@
+receivePositionMessage : 2279 0.474074 0.578073 1386.0
+sendBallCollision : 2281 C0.510185#0.503902#0.046296#0.005574#885.000000@
+receivePositionMessage : 2281 0.477778 0.578073 1389.0
+receivePositionMessage : 2282 0.477778 0.578073 1389.0
+receivePositionMessage : 2282 0.477778 0.578073 1389.0
+receivePositionMessage : 2284 0.481481 0.577598 1392.0
+receivePositionMessage : 2284 0.481481 0.577598 1392.0
+receivePositionMessage : 2284 0.481481 0.577598 1392.0
+sendBallCollision : 2285 C0.513889#0.503902#0.046296#0.005574#886.000000@
+receivePositionMessage : 2286 0.481481 0.577598 1394.0
+receivePositionMessage : 2286 0.481481 0.577598 1394.0
+receiveBallCollisionMessage : 2287 0.486111 0.495966 -0.053704 -0.001898 1396.0
+sendBallCollisionAck : 2287 R887.0@
+receiveBallCollisionMessage : 2287 0.486111 0.495966 -0.053704 -0.001898 1396.0
+sendBallCollision : 2287 C0.514815#0.504459#0.053704#0.001672#888.000000@
+sendBallCollisionAck : 2287 R889.0@
+receivePositionMessage : 2288 0.482407 0.577598 1398.0
+receivePositionMessage : 2288 0.482407 0.577598 1398.0
+receivePositionMessage : 2290 0.483333 0.577598 1401.0
+receivePositionMessage : 2290 0.483333 0.577598 1401.0
+receivePositionMessage : 2290 0.483333 0.577598 1401.0
+sendBallCollision : 2292 C0.518519#0.504459#0.053704#0.001672#890.000000@
+receivePositionMessage : 2293 0.486111 0.577124 1403.0
+receivePositionMessage : 2293 0.486111 0.577124 1403.0
+sendStrikerPosition : 2294 P0.475000#0.596990#891.000000@
+sendBallCollision : 2294 C0.519444#0.504459#0.053704#0.001672#892.000000@
+receivePositionMessage : 2294 0.486111 0.577124 1405.0
+receivePositionMessage : 2294 0.486111 0.577124 1405.0
+sendStrikerPosition : 2295 P0.476852#0.631550#893.000000@
+receiveBallCollisionMessage : 2295 0.480556 0.495491 -0.063889 0.0 1408.0
+sendBallCollisionAck : 2295 R894.0@
+receiveBallCollisionMessage : 2295 0.480556 0.495491 -0.063889 0.0 1408.0
+sendBallCollisionAck : 2295 R895.0@
+sendStrikerPosition : 2296 P0.478704#0.662207#896.000000@
+receiveBallCollisionMessage : 2296 0.480556 0.495491 -0.063889 0.0 1410.0
+sendBallCollisionAck : 2296 R897.0@
+receiveBallCollisionMessage : 2296 0.480556 0.495491 -0.063889 0.0 1410.0
+sendBallCollisionAck : 2296 R898.0@
+sendStrikerPosition : 2297 P0.479630#0.692865#899.000000@
+receiveBallCollisionMessage : 2297 0.480556 0.495491 -0.063889 0.0 1412.0
+sendBallCollisionAck : 2297 R900.0@
+receiveBallCollisionMessage : 2297 0.480556 0.495491 -0.063889 0.0 1412.0
+sendBallCollisionAck : 2297 R901.0@
+sendStrikerPosition : 2298 P0.480556#0.719621#902.000000@
+sendBallCollision : 2298 C0.520370#0.505017#0.063889#0.000000#903.000000@
+receiveBallCollisionMessage : 2299 0.480556 0.495491 -0.063889 0.0 1414.0
+sendBallCollisionAck : 2299 R904.0@
+receiveBallCollisionMessage : 2299 0.480556 0.495491 -0.063889 0.0 1414.0
+sendBallCollisionAck : 2299 R905.0@
+sendStrikerPosition : 2300 P0.493519#0.760312#906.000000@
+sendBallCollision : 2300 C0.520370#0.505017#0.063889#0.000000#907.000000@
+receiveCollisionAckMessage : 2300 1416.0
+receiveCollisionAckMessage : 2300 1416.0
+sendStrikerPosition : 2301 P0.499074#0.775362#908.000000@
+sendStrikerPosition : 2302 P0.502778#0.788183#909.000000@
+receiveCollisionAckMessage : 2302 1418.0
+sendStrikerPosition : 2303 P0.508333#0.800446#910.000000@
+receiveCollisionAckMessage : 2303 1418.0
+sendStrikerPosition : 2304 P0.512037#0.812152#911.000000@
+sendStrikerPosition : 2305 P0.515741#0.821070#912.000000@
+sendStrikerPosition : 2306 P0.516667#0.828317#913.000000@
+sendStrikerPosition : 2307 P0.517593#0.833891#914.000000@
+sendStrikerPosition : 2309 P0.519444#0.839465#915.000000@
+sendStrikerPosition : 2310 P0.519444#0.841695#916.000000@
+sendStrikerPosition : 2312 P0.520370#0.847826#917.000000@
+sendStrikerPosition : 2313 P0.520370#0.854515#918.000000@
+sendStrikerPosition : 2314 P0.520370#0.859532#919.000000@
+sendStrikerPosition : 2315 P0.520370#0.865663#920.000000@
+sendStrikerPosition : 2316 P0.520370#0.870123#921.000000@
+sendStrikerPosition : 2317 P0.520370#0.873467#922.000000@
+sendStrikerPosition : 2318 P0.518519#0.875697#923.000000@
+sendStrikerPosition : 2319 P0.518519#0.877369#924.000000@
+sendStrikerPosition : 2320 P0.516667#0.878484#925.000000@
+sendStrikerPosition : 2321 P0.517593#0.880156#926.000000@
+sendStrikerPosition : 2322 P0.516667#0.880156#927.000000@
+sendStrikerPosition : 2323 P0.516667#0.881271#928.000000@
+receivePositionMessage : 2323 0.487037 0.577124 1420.0
+receivePositionMessage : 2323 0.487037 0.577124 1420.0
+sendStrikerPosition : 2324 P0.515741#0.882386#929.000000@
+sendStrikerPosition : 2325 P0.515741#0.882943#930.000000@
+sendStrikerPosition : 2326 P0.515741#0.884058#931.000000@
+sendStrikerPosition : 2327 P0.515741#0.884058#932.000000@
+sendStrikerPosition : 2328 P0.515741#0.884615#933.000000@
+receivePositionMessage : 2328 0.487037 0.577124 1423.0
+receivePositionMessage : 2328 0.487037 0.577124 1423.0
+receivePositionMessage : 2328 0.487037 0.577124 1423.0
+sendStrikerPosition : 2329 P0.515741#0.885173#934.000000@
+receivePositionMessage : 2329 0.485185 0.576649 1424.0
+sendStrikerPosition : 2330 P0.514815#0.885730#935.000000@
+receivePositionMessage : 2330 0.477778 0.575225 1425.0
+sendStrikerPosition : 2331 P0.514815#0.886845#936.000000@
+receiveBallCollisionMessage : 2331 0.448148 0.494542 -0.075 0.002373 1427.0
+sendBallCollisionAck : 2331 R937.0@
+receiveBallCollisionMessage : 2331 0.448148 0.494542 -0.075 0.002373 1427.0
+sendBallCollisionAck : 2331 R938.0@
+sendStrikerPosition : 2332 P0.514815#0.887402#939.000000@
+receiveBallCollisionMessage : 2332 0.448148 0.494542 -0.075 0.002373 1429.0
+sendBallCollisionAck : 2332 R940.0@
+receiveBallCollisionMessage : 2332 0.448148 0.494542 -0.075 0.002373 1429.0
+sendBallCollisionAck : 2332 R941.0@
+receiveBallCollisionMessage : 2333 0.448148 0.494542 -0.075 0.002373 1431.0
+sendBallCollisionAck : 2333 R942.0@
+receiveBallCollisionMessage : 2333 0.448148 0.494542 -0.075 0.002373 1431.0
+sendStrikerPosition : 2334 P0.514815#0.887960#944.000000@
+sendBallCollisionAck : 2334 R943.0@
+receivePositionMessage : 2337 0.378704 0.569056 1435.0
+receivePositionMessage : 2337 0.378704 0.569056 1435.0
+sendStrikerPosition : 2338 P0.514815#0.888517#945.000000@
+receivePositionMessage : 2338 0.378704 0.569056 1435.0
+receivePositionMessage : 2338 0.378704 0.569056 1435.0
+sendStrikerPosition : 2339 P0.575000#0.765886#946.000000@
+receiveBallCollisionMessage : 2339 0.443519 0.495017 -0.077778 -0.006645 1437.0
+sendBallCollisionAck : 2339 R947.0@
+receiveBallCollisionMessage : 2339 0.443519 0.495017 -0.077778 -0.006645 1437.0
+sendBallCollisionAck : 2339 R948.0@
+receiveBallCollisionMessage : 2339 0.443519 0.495017 -0.077778 -0.006645 1439.0
+sendBallCollisionAck : 2339 R949.0@
+receiveBallCollisionMessage : 2339 0.443519 0.495017 -0.077778 -0.006645 1439.0
+sendBallCollisionAck : 2339 R950.0@
+sendStrikerPosition : 2340 P0.587037#0.699554#951.000000@
+receivePositionMessage : 2340 0.35463 0.562886 1440.0
+sendStrikerPosition : 2341 P0.593519#0.630992#952.000000@
+sendBallCollision : 2341 C0.557407#0.505017#-0.592593#-1.338350#953.000000@
+receivePositionMessage : 2341 0.35463 0.562886 1441.0
+sendStrikerPosition : 2342 P0.615741#0.594203#954.000000@
+sendBallCollision : 2342 C0.557407#0.505017#-0.592593#-1.338350#955.000000@
+receivePositionMessage : 2342 0.35463 0.56336 1444.0
+receivePositionMessage : 2342 0.35463 0.56336 1444.0
+receivePositionMessage : 2342 0.35463 0.56336 1444.0
+sendStrikerPosition : 2343 P0.610185#0.595318#956.000000@
+sendBallCollision : 2343 C0.557407#0.505017#-0.592593#-1.338350#957.000000@
+receiveBallCollisionMessage : 2343 0.452778 0.517323 1.301852 1.33365 1446.0
+sendBallCollisionAck : 2343 R958.0@
+receiveBallCollisionMessage : 2344 0.452778 0.517323 1.301852 1.33365 1446.0
+sendBallCollisionAck : 2344 R959.0@
+receiveBallCollisionMessage : 2345 0.452778 0.517323 1.301852 1.33365 1449.0
+sendBallCollisionAck : 2345 R960.0@
+receiveBallCollisionMessage : 2345 0.452778 0.517323 1.301852 1.33365 1449.0
+sendBallCollisionAck : 2345 R961.0@
+receiveBallCollisionMessage : 2345 0.452778 0.517323 1.301852 1.33365 1449.0
+sendBallCollisionAck : 2345 R962.0@
+receivePositionMessage : 2346 0.336111 0.572852 1450.0
+sendBallCollision : 2347 C0.502778#0.437012#-1.301852#-1.333333#963.000000@
+receiveBallCollisionMessage : 2347 0.475 0.540104 1.430556 1.631229 1451.0
+sendBallCollisionAck : 2347 R964.0@
+sendBallCollision : 2348 C0.500000#0.432553#-1.430556#-1.630992#965.000000@
+sendBallCollision : 2349 C0.475926#0.404682#-1.430556#-1.630992#966.000000@
+receivePositionMessage : 2350 0.340741 0.564309 1452.0
+receiveCollisionAckMessage : 2351 1454.0
+receiveCollisionAckMessage : 2351 1454.0
+receiveBallCollisionMessage : 2353 0.5 0.567157 1.42963 1.630755 1456.0
+sendBallCollisionAck : 2353 R967.0@
+receiveBallCollisionMessage : 2353 0.5 0.567157 1.42963 1.630755 1456.0
+sendBallCollisionAck : 2353 R968.0@
+receivePositionMessage : 2358 0.406481 0.579497 1457.0
+receivePositionMessage : 2359 0.407407 0.579972 1458.0
+receivePositionMessage : 2361 0.411111 0.579022 1460.0
+receivePositionMessage : 2361 0.411111 0.579022 1460.0
+receivePositionMessage : 2362 0.414815 0.577124 1461.0
+receivePositionMessage : 2364 0.428704 0.571429 1463.0
+receivePositionMessage : 2364 0.428704 0.571429 1463.0
+receivePositionMessage : 2366 0.447222 0.564784 1465.0
+receivePositionMessage : 2366 0.447222 0.564784 1465.0
+receivePositionMessage : 2369 0.467593 0.560513 1467.0
+receivePositionMessage : 2369 0.467593 0.560513 1467.0
+receivePositionMessage : 2371 0.536111 0.56336 1469.0
+receivePositionMessage : 2371 0.536111 0.56336 1469.0
+receivePositionMessage : 2373 0.577778 0.560513 1471.0
+receivePositionMessage : 2373 0.577778 0.560513 1471.0
+receivePositionMessage : 2375 0.603704 0.556716 1472.0
+receivePositionMessage : 2376 0.627778 0.55102 1473.0
+receivePositionMessage : 2378 0.65 0.55102 1474.0
+receivePositionMessage : 2379 0.67037 0.55102 1475.0
+receivePositionMessage : 2381 0.700926 0.55102 1477.0
+receivePositionMessage : 2381 0.700926 0.55102 1477.0
+receivePositionMessage : 2383 0.713889 0.55102 1479.0
+receivePositionMessage : 2383 0.713889 0.55102 1479.0
+receivePositionMessage : 2385 0.718519 0.55102 1481.0
+receivePositionMessage : 2385 0.718519 0.55102 1481.0
+receivePositionMessage : 2388 0.718519 0.55102 1483.0
+receivePositionMessage : 2388 0.718519 0.55102 1483.0
+receivePositionMessage : 2390 0.719444 0.55102 1485.0
+receivePositionMessage : 2390 0.719444 0.55102 1485.0
+receiveBallCollisionMessage : 2391 0.706481 0.614618 -1.591667 -0.495966 1487.0
+sendBallCollisionAck : 2391 R969.0@
+receiveBallCollisionMessage : 2391 0.706481 0.614618 -1.591667 -0.495966 1487.0
+sendBallCollisionAck : 2391 R970.0@
+receiveBallCollisionMessage : 2392 0.706481 0.614618 -1.591667 -0.495966 1489.0
+sendBallCollisionAck : 2392 R971.0@
+receiveBallCollisionMessage : 2392 0.706481 0.614618 -1.591667 -0.495966 1489.0
+sendBallCollisionAck : 2392 R972.0@
+receiveBallCollisionMessage : 2393 0.706481 0.614618 -1.591667 -0.495966 1491.0
+sendBallCollisionAck : 2393 R973.0@
+receiveBallCollisionMessage : 2393 0.706481 0.614618 -1.591667 -0.495966 1491.0
+sendBallCollisionAck : 2393 R974.0@
+receiveBallCollisionMessage : 2394 0.706481 0.614618 -1.591667 -0.495966 1493.0
+sendBallCollisionAck : 2394 R975.0@
+receiveBallCollisionMessage : 2394 0.706481 0.614618 -1.591667 -0.495966 1493.0
+sendBallCollisionAck : 2394 R976.0@
+receivePositionMessage : 2398 0.723148 0.53346 1494.0
+receiveBallCollisionMessage : 2400 0.625926 0.589464 -1.159259 -0.90318 1497.0
+sendBallCollisionAck : 2400 R977.0@
+receiveBallCollisionMessage : 2400 0.625926 0.589464 -1.159259 -0.90318 1497.0
+sendBallCollisionAck : 2400 R978.0@
+receiveBallCollisionMessage : 2400 0.625926 0.589464 -1.159259 -0.90318 1497.0
+sendBallCollisionAck : 2400 R979.0@
+receiveBallCollisionMessage : 2401 0.625926 0.589464 -1.159259 -0.90318 1499.0
+sendBallCollisionAck : 2401 R980.0@
+receiveBallCollisionMessage : 2401 0.625926 0.589464 -1.159259 -0.90318 1499.0
+sendBallCollisionAck : 2401 R981.0@
+receivePositionMessage : 2402 0.749074 0.537731 1500.0
+receiveBallCollisionMessage : 2406 0.586111 0.558614 -0.425 -1.139535 1503.0
+sendBallCollisionAck : 2406 R982.0@
+receivePositionMessage : 2406 0.744444 0.549597 1504.0
+receivePositionMessage : 2407 0.744444 0.549597 1505.0
+receivePositionMessage : 2407 0.744444 0.549597 1505.0
+receivePositionMessage : 2407 0.744444 0.549597 1505.0
+receiveBallCollisionMessage : 2410 0.578704 0.539155 0.339815 -1.294732 1510.0
+sendBallCollisionAck : 2410 R983.0@
+receiveBallCollisionMessage : 2410 0.736111 0.552444 1511.0 1510.0 0.063889
+sendBallCollisionAck : 2410 R984.0@
+receivePositionMessage : 2410 0.736111 0.552444 1511.0
+receivePositionMessage : 2410 0.736111 0.552444 1511.0
+receivePositionMessage : 2410 0.736111 0.552444 1511.0
+receivePositionMessage : 2410 0.736111 0.552444 1511.0
+receivePositionMessage : 2413 0.726852 0.553393 1513.0
+receivePositionMessage : 2413 0.726852 0.553393 1513.0
+receivePositionMessage : 2415 0.716667 0.55102 1515.0
+receivePositionMessage : 2416 0.716667 0.55102 1515.0
+receivePositionMessage : 2418 0.718519 0.55102 1517.0
+receivePositionMessage : 2418 0.718519 0.55102 1517.0
+receivePositionMessage : 2420 0.719444 0.55102 1519.0
+receivePositionMessage : 2420 0.719444 0.55102 1519.0
+receivePositionMessage : 2422 0.721296 0.55102 1521.0
+receivePositionMessage : 2422 0.721296 0.55102 1521.0
+receivePositionMessage : 2424 0.725 0.55102 1523.0
+receivePositionMessage : 2425 0.725 0.55102 1523.0
+receivePositionMessage : 2427 0.725 0.55102 1525.0
+receivePositionMessage : 2427 0.725 0.55102 1525.0
+receivePositionMessage : 2429 0.725 0.55102 1526.0
+receivePositionMessage : 2430 0.726852 0.55102 1527.0
+receivePositionMessage : 2432 0.726852 0.55102 1529.0
+receivePositionMessage : 2432 0.726852 0.55102 1529.0
+receivePositionMessage : 2434 0.727778 0.55102 1531.0
+receivePositionMessage : 2435 0.727778 0.55102 1531.0
+receivePositionMessage : 2439 0.727778 0.55102 1535.0
+receivePositionMessage : 2439 0.727778 0.55102 1535.0
+receivePositionMessage : 2439 0.727778 0.55102 1535.0
+receivePositionMessage : 2439 0.727778 0.55102 1535.0
+receivePositionMessage : 2441 0.727778 0.55102 1537.0
+receivePositionMessage : 2442 0.727778 0.55102 1537.0
+receivePositionMessage : 2443 0.727778 0.55102 1538.0
+receivePositionMessage : 2449 0.727778 0.55102 1539.0
+sendGoalScored : 2452 G2.0#985.0@
+receiveGoalScoredAckMessage : 2456 2.0 1540.0
+receivePositionMessage : 2530 0.5 0.897485 1541.0
+sendStrikerPosition : 2531 P0.493519#0.861204#986.000000@
+receivePositionMessage : 2531 0.5 0.897485 1542.0
+sendStrikerPosition : 2532 P0.487037#0.835006#987.000000@
+receivePositionMessage : 2532 0.498148 0.892264 1543.0
+sendStrikerPosition : 2533 P0.478704#0.806577#988.000000@
+receivePositionMessage : 2533 0.498148 0.892264 1544.0
+sendStrikerPosition : 2534 P0.469444#0.774805#989.000000@
+receivePositionMessage : 2534 0.493519 0.831514 1545.0
+sendStrikerPosition : 2535 P0.458333#0.742475#990.000000@
+receivePositionMessage : 2535 0.498148 0.782155 1546.0
+sendStrikerPosition : 2536 P0.448148#0.717391#991.000000@
+receivePositionMessage : 2536 0.5 0.741813 1547.0
+sendStrikerPosition : 2537 P0.441667#0.697324#992.000000@
+receivePositionMessage : 2538 0.490741 0.703844 1548.0
+sendStrikerPosition : 2538 P0.439815#0.691750#993.000000@
+sendStrikerPosition : 2539 P0.439815#0.691750#994.000000@
+receivePositionMessage : 2539 0.486111 0.643094 1549.0
+receiveBallCollisionMessage : 2539 0.499074 0.499288 0.010185 0.033223 1551.0
+sendBallCollisionAck : 2539 R995.0@
+receiveBallCollisionMessage : 2540 0.499074 0.499288 0.010185 0.033223 1551.0
+sendBallCollisionAck : 2540 R996.0@
+sendStrikerPosition : 2540 P0.437963#0.685619#997.000000@
+sendStrikerPosition : 2541 P0.437963#0.683946#998.000000@
+receiveBallCollisionMessage : 2541 0.499074 0.499288 0.010185 0.033223 1553.0
+sendBallCollisio
